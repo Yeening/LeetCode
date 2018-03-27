@@ -5,4 +5,4 @@ LeetCode solutions in C++ 11 and Python3.
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
-|0|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](000.%20Two%20Sum/solution.h) [Python](000.%20Two%20Sum/solution.py)|[Note](000.%20Two%20Sum)|Easy|`Mapping`|
+|0|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](LeetCode/001. Two Sum/cpp_solution.cpp) [Python](000.%20Two%20Sum/solution.py)|[Note](000.%20Two%20Sum)|Easy|`Mapping`|
