@@ -1,4 +1,5 @@
-
+#include<nurmeric>  //for solution2
+#include<map>       //for solution3
 
 class Solution {
 public:
