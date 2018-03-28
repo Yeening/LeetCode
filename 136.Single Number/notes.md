@@ -8,7 +8,7 @@
   * a⊕a=0  
 * a⊕b⊕a=(a⊕a)⊕b=0⊕b=b  
 So we can XOR all bits together to find the unique number.  
-* XOR in C++
+* XOR in C/C++
 ```
 int res;
 res ^= nums[i];
