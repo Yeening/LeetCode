@@ -1,4 +1,4 @@
-#Applicant of recursion
+# Application of recursion
 * Theorem: The first one who got the number that is multiple of 4 (i.e. n % 4 == 0) will lost, otherwise he/she will win.
 
 * Proof:
