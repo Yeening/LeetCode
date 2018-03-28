@@ -16,4 +16,4 @@ So we can XOR all bits together to find the unique number.  
 ## 2. Math
 ### Concept
 * 2∗(a+b+c)−(a+a+b+b+c)=c
-* [C++ sum of STL](../Notes_Cpp/STL/algorithm.md)
+* [C++ sum of STL](../../Notes_Cpp/STL/algorithm.md)
