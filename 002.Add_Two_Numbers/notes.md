@@ -4,4 +4,6 @@
 头结点的数据域可以不存储任何信息，也可以存储如线性表长度等类的附加信息，头结点的指针域存储指向第一个结点的指针（即第一个元素结点的存储位置）
 ## C++条件运算符
    `Condition ? X : Y`  
-   如果 Condition 为真 ? 则值为 X : 否则值为 Y。
+   如果 Condition 为真 ? 则值为 X : 否则值为 Y。
+## Python条件运算符
+   `value_when_true if condition else value_when_false`
