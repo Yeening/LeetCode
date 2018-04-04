@@ -7,3 +7,9 @@
    如果 Condition 为真 ? 则值为 X : 否则值为 Y。
 ## Python条件运算符
    `value_when_true if condition else value_when_false`
+
+## Python 类的实例的初始化，Python一切都是引用
+```
+   head_node = ListNode(0)
+   head = head_node   #表示head成为head_node的引用
+```
