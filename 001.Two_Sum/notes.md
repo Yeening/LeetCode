@@ -9,6 +9,10 @@ Two Sum
 unordered_map<int,int> hash;
 hash[3] = 9;
 hash.find(4)==hash.end();
+//遍历hash table
+for( mymap::iterator iter=mapping.begin();iter!=mapping.end();iter++ ){
+    cout<<"key="<<iter->first<<" and value="<<iter->second<<endl;
+}
 ...
 ```
 ## 目前已知的几种查找方法  
