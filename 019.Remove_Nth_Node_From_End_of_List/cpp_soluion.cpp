@@ -19,7 +19,9 @@ public:
             head = head->next;
             pre = pre->next;
         }
-        pre->next = pre->next->next;
+        ListNode* next = pre->next->next;
+        delete pre->next;
+        pre->next = next;
         return pre_head.next;
     }
 };
