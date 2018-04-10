@@ -30,3 +30,44 @@ int main()
 bool myfunction (int i,int j) { return (i<j); }//升序排列
 bool myfunction2 (int i,int j) { return (i>j); }//降序排列
 ```
+## Python sorted() 函数
+sorted() 函数对所有可迭代的对象进行排序操作。
+
+sort 与 sorted 区别：
+
+sort 是应用在 list 上的方法，sorted 可以对所有可迭代的对象进行排序操作。
+
+list 的 sort 方法返回的是对已经存在的列表进行操作，而内建函数 sorted 方法返回的是一个新的 list，而不是在原来的基础上进行的操作。
+```
+>>>a = [5,7,6,3,4,1,2]
+>>> b = sorted(a)       # 保留原列表
+>>> a 
+[5, 7, 6, 3, 4, 1, 2]
+>>> b
+[1, 2, 3, 4, 5, 6, 7]
+ 
+>>> L=[('b',2),('a',1),('c',3),('d',4)]
+>>> sorted(L, cmp=lambda x,y:cmp(x[1],y[1]))   # 利用cmp函数
+[('a', 1), ('b', 2), ('c', 3), ('d', 4)]
+>>> sorted(L, key=lambda x:x[1])               # 利用key
+[('a', 1), ('b', 2), ('c', 3), ('d', 4)]
+ 
+ 
+>>> students = [('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
+>>> sorted(students, key=lambda s: s[2])            # 按年龄排序
+[('dave', 'B', 10), ('jane', 'B', 12), ('john', 'A', 15)]
+ 
+>>> sorted(students, key=lambda s: s[2], reverse=True)       # 按降序
+[('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
+```
+## [Python 字典](http://www.runoob.com/python/python-dictionary.html)
+* [get方法](http://www.runoob.com/python/att-dictionary-get.html)  
+     Python 字典(Dictionary) get() 函数返回指定键的值，如果值不在字典中返回默认值。
+   ```
+   dict = {'Name': 'Zara', 'Age': 27}
+   print "Value : %s" %  dict.get('Age')
+   >>> Value: 27
+   print "Value : %s" %  dict.get('Sex', "Never")
+   >>> Value: Never
+   ```
+* 值可以取任何数据类型，但键必须是不可变的，如字符串，数字或元组(tuple)。
