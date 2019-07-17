@@ -4,9 +4,9 @@
 
 LeetCode solutions in C++ 11 and Python3.
 
-|NO.|Title|Solution|Note|Difficulty|Tag|
+|My NO.|NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
-|1|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](001.Two_Sum/cpp_solution.cpp) [Python](001.Two_Sum/python_solution.py)|[Note](001.Two_Sum/notes.md)|Easy|`Hash table`|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](001.Two_Sum/cpp_solution.cpp) [Python](001.Two_Sum/python_solution.py)[Java](001.Two_Sum/java_solution.java)|[Note](001.Two_Sum/notes.md)|Easy|`Hash table`|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](002.Add_Two_Numbers/cpp_solution.cpp) [Python](002.Add_Two_Numbers/python_solution.py)|[Note](002.Add_Two_Numbers/notes.md)|Medium|`Linked List`|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](003.Longest_Substring_Without_Repeating_Characters/solution.cpp) [Python](003.Longest_Substring_Without_Repeating_Characters/python_solution.py)|[Note](003.Longest_Substring_Without_Repeating_Characters/notes.md)|Medium|`Hash Table`|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[C++](019.Remove_Nth_Node_From_End_of_List/cpp_solution.cpp) [Python](019.Remove_Nth_Node_From_End_of_List/python_solution.py)|[Note](019.Remove_Nth_Node_From_End_of_List/notes.md)|Medium|`Linked List`|
