@@ -26,6 +26,7 @@ public class hashMap {
     }
 }
 ```
+[HashMap](https://blog.csdn.net/wdays83892469/article/details/79615609)
 ## 目前已知的几种查找方法  
 
 |查找方法|时间复杂读|
