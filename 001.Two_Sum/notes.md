@@ -15,7 +15,18 @@ for( mymap::iterator iter=mapping.begin();iter!=mapping.end();iter++ ){
 }
 ...
 ```
-## 目前已知的几种查找方法  
+# Java 中哈希表的使用
+```
+import java.util.HashMap;
+import java.util.Map;
+public class hashMap {
+    public static void main(String[] args){
+        Map<Integer> map = new HashMap<>();
+        map.put(i);
+    }
+}
+```
+## 目前已知的几种查找方法  
 
 |查找方法|时间复杂读|
 |----|----|
