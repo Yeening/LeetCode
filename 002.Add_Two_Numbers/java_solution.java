@@ -3,7 +3,7 @@ class Solution {
         ListNode head = new ListNode(0);
         ListNode current = head;
         int sum = 0;
-        while(l1!=null||l2!=null){
+        while(l1!=null||l2!=null){ //Java donot support object to boolean
             if(l1!=null){
                 sum += l1.val;
                 l1 = l1.next;
