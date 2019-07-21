@@ -29,7 +29,7 @@ class Solution {
 }
 
 
-//Improved recursive approach for k Sum(k>=2)
+//Improved recursive approach for k Sum(k>=2) Time O(n^3), beat 94% submittions
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
