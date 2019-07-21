@@ -31,16 +31,15 @@ class Solution {
 
 //Improved recursive approach for k Sum(k>=2) Time O(n^3), beat 94% submittions
 class Solution {
+    int len = 0;
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
-        // List<List<Integer>> res = new LinkedList<>();
-        
+        len = nums.length;
         return kSum(nums, target, 0, 4);
     }
     private ArrayList<List<Integer>> kSum(int[] nums, int target, int start, int k)
     {
         ArrayList<List<Integer>> res = new ArrayList<>();
-        int len = nums.length;
         if(start > len - k || nums[start] * k > target || nums[len-1]*k < target) return res;
         if(k==2){
             int lo = start, hi = len-1;
