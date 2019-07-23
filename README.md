@@ -7,7 +7,7 @@ LeetCode solutions in C++ 11 and Python3.
 |x|NO.|Title|Solution|Note|Difficulty|Tag|
 |-|---|-----|--------|----|----------|---|
 |1|1|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](001.Two_Sum/cpp_solution.cpp) [Python](001.Two_Sum/python_solution.py)[Java](001.Two_Sum/java_solution.java)|[Note](001.Two_Sum/notes.md)|Easy|`Hash table`|
-| |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](002.Add_Two_Numbers/cpp_solution.cpp) [Python](002.Add_Two_Numbers/python_solution.py)|[Note](002.Add_Two_Numbers/notes.md)|Medium|`Linked List`|
+|2|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](002.Add_Two_Numbers/cpp_solution.cpp) [Python](002.Add_Two_Numbers/python_solution.py)[Java](002.Add_Two_Numbers/java_solution.java)|[Note](002.Add_Two_Numbers/notes.md)|Medium|`Linked List`|
 |3|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](003.Longest_Substring_Without_Repeating_Characters/solution.cpp) [Python](003.Longest_Substring_Without_Repeating_Characters/python_solution.py)[Java](003.Longest_Substring_Without_Repeating_Characters/java_solution.java)|[Note](003.Longest_Substring_Without_Repeating_Characters/notes.md)|Medium|`Hash Table`|
 |4|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](015.3Sum/java_solution.java)|[Note](015.3Sum/note.md)|Medium|`Array` `Two Pointers`|
 |5|18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](018.4Sum/java_solution.java)|[Note](018.4Sum/note.md)|Medium|`Array` `Two Pointers`|
