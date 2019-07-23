@@ -25,4 +25,4 @@ LeetCode solutions in C++ 11 and Python3.
 | |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse_Linked_List/cpp_solution.cpp) [Python](206.Reverse_Linked_List/python_solution.py)|[Note](206.Reverse_Linked_List/notes.md)|Easy|`LinkedList`|
 | |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[C++](292.Nim%20Game/cpp_solution.cpp) [Python](LeetCode/292.Nim%20Game/solution_python.py)|[Note](292.Nim%20Game/notes.md)|Easy|`Brainteaser`|
 | |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
-
+| |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Java](454.4Sum_II/java_solution.java)|[Note](454.4Sum_II/note.md)|Medium|`Hash table``Binary Search`|
