@@ -15,3 +15,4 @@ class Solution {
     }
 }
 ```
+clean but not very practical, may cause stack overflow
