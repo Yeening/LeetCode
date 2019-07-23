@@ -24,7 +24,5 @@ LeetCode solutions in C++ 11 and Python3.
 | |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[C++](094.Binary_Tree_Inorder_Traversal/cpp_solution.cpp) [Python](094.Binary_Tree_Inorder_Traversal/python_solution.py)|[Note](094.Binary_Tree_Inorder_Traversal/notes.md)|Medium|`Tree`|
 | |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[C++](096.Unique_Binary_Search_Trees/cpp_solution.cpp) [Python](096.Unique_Binary_Search_Trees/python_solution.py)|[Note](096.Unique_Binary_Search_Trees/notes.md)|Medium|`Dynamic Programming`|
 | |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C++](LeetCode/136.Single%20umber/cpp_solution.cpp) [Python](136.Single%20Number/python_solution.py)|[Note](136.Single%20Number/notes.md)|Easy|`Bit Manipulation`|
-
 | |292|[Nim Game](https://leetcode.com/problems/nim-game/description/)|[C++](292.Nim%20Game/cpp_solution.cpp) [Python](LeetCode/292.Nim%20Game/solution_python.py)|[Note](292.Nim%20Game/notes.md)|Easy|`Brainteaser`|
 | |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
-
