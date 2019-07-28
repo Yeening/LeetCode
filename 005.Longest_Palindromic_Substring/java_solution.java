@@ -23,3 +23,24 @@ class Solution {
         return maxLen;
     }
 }
+
+//Dynamic Programming solution, beat 33%, not as fast as the previous solution
+class Solution {
+    public String longestPalindrome(String s) {
+        int len = s.length();
+        int maxLen = 0;
+        String res = "";
+        if(len < 2) return s;
+        boolean[][] isPal = new boolean[len][len];
+        for(int i = len - 1; i >= 0; i--){
+            for(int j = i; j < len; j++){
+                isPal[i][j] = s.charAt(i)==s.charAt(j) && (j - i < 2||isPal[i+1][j-1]);
+                if(isPal[i][j] && j - i + 1 > maxLen){
+                    maxLen = j - i + 1;
+                    res = s.substring(i, j+1);
+                }
+            }
+        }
+        return res;
+    }
+}
