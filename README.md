@@ -18,8 +18,7 @@ LeetCode solutions in C++ 11 and Python3.
 |10|20|[Valid_Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](020.Valid_Parentheses/java_solution.java)|[Note](020.Valid_Parentheses/note.md)|Easy|`Stack`|
 |11|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](005.Longest_Palindromic_Substring/java_solution.java)|[Note](005.Longest_Palindromic_Substring/note.md)|Medium|`Dynamic Programming`|
 |12|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](032.Longest_Valid_Parentheses/java_solution.java)|[Note](032.Longest_Valid_Parentheses/note.md)|Hard|`Dynamic Programming`|
-| |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)
-[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
+| |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 | |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
 | |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Java](039.Combination_Sum/java_solution.java) [Python](039.Combination_Sum/python_solution.py)|[Note](039.Combination_Sum/notes.md)|Medium|`Backtracking`|
