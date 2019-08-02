@@ -1,0 +1,1 @@
+Suppose we have a wiggle array form 0 to i-1, i is odd, then nums[i] needs to >= nums[i-1], if it does not statisfy, then nums[i] > nums[i-1], nums[i-1] > nums[i-2], so nums[i] > nums[i-2],if we swap nums[i] and nums[i-1], it is still wiggle.
