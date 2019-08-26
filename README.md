@@ -35,6 +35,7 @@ LeetCode solutions in C++ 11 and Python3.
 |27|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](182.Duplicate_Emails/sql_solution.sql)|[Note](182.Duplicate_Emails/note.md)|Easy|`SQL`|
 |28|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](238.Product_of_Array_Except_Self/java_solution.java)|[Note](238.Product_of_Array_Except_Self/note.md)|Medium|`Array`|
 |29|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](237.Delete_Node_in_a_Linked_List/java_solution.java)||Easy|`Linked List`|
+|30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
 | |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 | |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
