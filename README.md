@@ -37,6 +37,7 @@ LeetCode solutions in C++ 11 and Python3.
 |29|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](237.Delete_Node_in_a_Linked_List/java_solution.java)||Easy|`Linked List`|
 |30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
 |31|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](258.Add_Digits/java_solution.java)|[Note](258.Add_Digits/note.md)|Easy|`Math`|
+|32|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
 | |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 | |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
