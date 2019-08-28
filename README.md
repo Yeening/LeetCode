@@ -38,6 +38,7 @@ LeetCode solutions in C++ 11 and Python3.
 |30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
 |31|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](258.Add_Digits/java_solution.java)|[Note](258.Add_Digits/note.md)|Easy|`Math`|
 |32|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
+|33|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](264.Ugly_Number_II/java_solution.java)|[Note](264.Ugly_Number_II/note.md)|Medium|`Math` `Heap`|
 |33|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](263.Ugly_Number/java_solution.java)||Easy|`Math`|
 | |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
