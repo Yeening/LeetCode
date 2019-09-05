@@ -40,7 +40,8 @@ LeetCode solutions in C++ 11 and Python3.
 |32|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
 |33|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](264.Ugly_Number_II/java_solution.java)|[Note](264.Ugly_Number_II/note.md)|Medium|`Math` `Heap`|
 |34|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](263.Ugly_Number/java_solution.java)||Easy|`Math`|
-|35|78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](78.Subsets/java_solution.java)|[Note](78.Subsets/note.md)|Medium|`Backtracking`|
+|35|78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](078.Subsets/java_solution.java)|[Note](078.Subsets/note.md)|Medium|`Backtracking`|
+|36|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](090.Subsets_II/java_solution.java)|[Note](090.Subsets_II/note.md)|Medium|`Backtracking`|
 | |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 | |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
