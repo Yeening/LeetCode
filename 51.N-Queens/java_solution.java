@@ -17,8 +17,10 @@ class Solution {
         }
         for(int i = 0; i < n; i++){
             if(!val(row, i, map)) continue;
+            //try
             map[row][i] = 'Q';
             DFS(row+1, map, n, res);
+            //un-do
             map[row][i] = '.';
         }
     }
