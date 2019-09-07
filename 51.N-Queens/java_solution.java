@@ -1,3 +1,4 @@
+//Backtracking, Directly check the validity of each position, 3ms, 74%.
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         char[][] map = new char[n][n];
