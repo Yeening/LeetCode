@@ -43,6 +43,7 @@ LeetCode solutions in C++ 11 and Python3.
 |35|78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](078.Subsets/java_solution.java)|[Note](078.Subsets/note.md)|Medium|`Backtracking`|
 |36|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](090.Subsets_II/java_solution.java)|[Note](090.Subsets_II/note.md)|Medium|`Backtracking`|
 |37|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](051.N-Queens/java_solution.java)|[Note](051.N-Queens/note.md)|Hard|`Backtracking`|
+|38|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](052.N-Queens_II/java_solution.java)|[Note](052.N-Queens_II/note.md)|Hard|`Backtracking`|
 | |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](022.Generate_Parentheses/cpp_solution.cpp)[Python](022.Generate_Parentheses/python_solution.py)|[Note](022.Generate_Parentheses/notes.md)|Medium|`Backtracking`|
 | |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 | |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
