@@ -1,3 +1,31 @@
+//Backtracking solution, beats 99.8%
+class Solution {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        List<List<Integer>> res = new LinkedList<>();
+        backTracking(candidates, target, 0, res, new LinkedList<>());
+        return res;
+    }
+    private void backTracking(int[] candidates, int remain, int start
+                              , List<List<Integer>> res, LinkedList<Integer> temp){
+        if(remain < 0) return;
+        if(remain==0){
+            res.add(new LinkedList<Integer>(temp));
+        }
+        else{
+            for(int i = start; i < candidates.length; i++){
+                //reduce half of time be skipping the big candidates
+                if(candidates[i] > remain) break;
+                temp.add(candidates[i]);
+                //start from i because we need to try the same candidate again
+                backTracking(candidates, remain-candidates[i], i, res, temp);
+                temp.removeLast();
+            }
+        }
+    }
+}
+
+//Old version
 import java.util.*;
 import java.util.List;
 
