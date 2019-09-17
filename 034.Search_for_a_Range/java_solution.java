@@ -1,3 +1,4 @@
+//0ms, 100%
 class Solution {
     int first = -1, last = -1;
     public int[] searchRange(int[] nums, int target) {
