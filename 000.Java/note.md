@@ -1,6 +1,6 @@
 # Note of Java
 ## Different Type of Size
-```
+```Java
 // Array
 String[] s = new String[5];
 s.length;
@@ -13,7 +13,7 @@ l.size();
 ```
 ## ArrayList and LinkedList
 * Construct form other collection
-```
+```Java
 // ArrayList
 ArrayList<Integer> al = new ArrayList<>(collection);
 ArrayList<Integer> al1 = Arrays.asList(arr);
@@ -23,12 +23,12 @@ ll.addAll(Arrays.asList(arr));
 ```
 ## == vs. String.equals()
 == compares the adress in memory while String.equals() compares the String value
-```
+```Java
 s.equals("ABC");
 ```
 ## Split() String
 ### String [ ] split ( String regex, int limit )
-```
+```Java
 /* limit > 0 : If this is the case then the pattern will be
              applied at most limit-1 times, the resulting 
              array’s length will not be more than n, and 
@@ -44,7 +44,26 @@ s.equals("ABC");
 String[] arrOfStr = str.split("@", 2);
 ```
 ### public String[] split(String regex)
-```
+```Java
 String str = "GeeksforGeeks:A Computer Science Portal"; 
 String[] arrOfStr = str.split(":"); 
+```
+## Converting between String, Int, and char[]
+```Java
+//String to int
+String number = "10";
+int result = Integer.parseInt(number);
+//String to Integer
+String number = "10";
+Integer result = Integer.valueOf(number);	
+//Int to String
+String s = String.valueOf(5);
+//String to char[]
+char[] gfg = s.toCharArray();
+//char[] to String
+char[] ca = new char[]{'a','b'};
+//Method1: use String constructor
+String s1 = new String(ca)
+//Method2: use String.valueOf()
+String s2 = String.valueOf(ca);
 ```
