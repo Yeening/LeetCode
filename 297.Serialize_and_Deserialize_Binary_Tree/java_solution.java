@@ -61,3 +61,55 @@ public class Codec {
 // Your Codec object will be instantiated and called as such:
 // Codec codec = new Codec();
 // codec.deserialize(codec.serialize(root));
+
+
+//Uses array instead of LinkedList, 96%
+public class Codec {
+    int start = 0;
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        visit(root, sb);
+        return sb.toString();
+    }
+    private void visit(TreeNode node, StringBuilder sb){
+        if(node==null){
+            sb.append("null,");
+        }
+        else{
+            sb.append(String.valueOf(node.val));
+            sb.append(",");
+            visit(node.left,sb);
+            visit(node.right,sb);
+        }
+    }
+
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+        start = 0;
+        TreeNode root = build(data.split(",",-1));
+        return root;
+    }
+    public TreeNode build(String[] q){
+        if(start>=q.length){
+            return null;
+        }
+        String s = q[start];
+        start++;
+        if(s.equals("null")){
+            return null;
+        }
+        else{
+            //Integer.parseInt(String s) returns int, 
+            //Integer.valueOf(String s) returns Integer
+            TreeNode node = new TreeNode(Integer.parseInt(s));
+            node.left = build(q);
+            node.right = build(q);
+            return node;
+        }
+    }
+}
+
+// Your Codec object will be instantiated and called as such:
+// Codec codec = new Codec();
+// codec.deserialize(codec.serialize(root));
