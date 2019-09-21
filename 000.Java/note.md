@@ -11,6 +11,7 @@ str.length();
 List<Integer> l = new ArrayList<>();
 l.size();
 ```
+
 ## ArrayList and LinkedList
 * Construct form other collection
 ```Java
