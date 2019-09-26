@@ -55,3 +55,4 @@ LeetCode solutions in C++ 11 and Python3.
 |47|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |48|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](175.Combine_Two_Tables/sql_solution.sql)||Easy|`SQL`|
 |49|169|[Majority Element](https://leetcode.com/problems/combine-two-tables/)|[Java](169.Majority_Element/java_solution.java)||Easy|`Array`|
+|50|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](242.Valid_Anagram/java_solution.java)||Easy|`Hash Table`|
