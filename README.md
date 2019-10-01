@@ -59,3 +59,4 @@ LeetCode solutions in C++ 11 and Python3.
 |51|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](230.Kth_Smallest_Element_in_a_BST/java_solution.java)||Medium|`Tree` `Binary Search`|
 |52|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](217.Contains_Duplicate/java_solution.java)||Easy|`Hash Table`|
 |53|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](219.Contains_Duplicate_II/java_solution.java)||Easy|`Hash Table`|
+|54|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](14.Longest_Common_Prefix/java_solution.java)||Easy|`String`|
