@@ -68,3 +68,8 @@ String s1 = new String(ca)
 //Method2: use String.valueOf()
 String s2 = String.valueOf(ca);
 ```
+## Hash data sets
+* [HashSet](https://docs.oracle.com/javase/7/docs/api/java/util/HashSet.html)
+* [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
+* [HashTable](https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html)
+* [Difference between HashMap and HashTable](https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/)
