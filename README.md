@@ -63,3 +63,4 @@ LeetCode solutions in C++ 11 and Python3.
 |55|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](013.Roman_to_Integer/java_solution.java)|[Note](013.Roman_to_Integer/note.md)|Easy|`String` `Math`|
 |56|912|[Sort an array](https://leetcode.com/problems/sort-an-array/)|[Java](912.Sort_an_Array/java_solution.java)|[Note](912.Sort_an_Array/note.md)|Medium|`Sorting`|
 |57|12|[Intger to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](12.Integer_to_Roman/java_solution.java)|[Note](12.Integer_to_Roman/note.md)|Medium|`String` `Math`|
+|58|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](038.Count_and_Say/java_solution.java)||Easy|`String`|
