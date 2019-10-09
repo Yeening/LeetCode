@@ -73,4 +73,3 @@ String s2 = String.valueOf(ca);
 * [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 * [HashTable](https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html)
 * [Difference between HashMap and HashTable](https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/)
-   
