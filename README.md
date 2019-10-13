@@ -65,3 +65,4 @@ LeetCode solutions in C++ 11 and Python3.
 |57|12|[Intger to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](012.Integer_to_Roman/java_solution.java)|[Note](012.Integer_to_Roman/note.md)|Medium|`String` `Math`|
 |58|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](038.Count_and_Say/java_solution.java)||Easy|`String`|
 |59|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer//)|[Java](007.Reverse_Integer/java_solution.java)|[Note](007.Reverse_Integer/note.md)|Easy|`Math`|
+|60|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](009.Palindrome_Number/java_solution.java)|[Note](009.Palindrome_Number/note.md)|Easy|`Math`|
