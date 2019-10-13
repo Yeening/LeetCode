@@ -66,3 +66,4 @@ LeetCode solutions in C++ 11 and Python3.
 |58|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](038.Count_and_Say/java_solution.java)||Easy|`String`|
 |59|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer//)|[Java](007.Reverse_Integer/java_solution.java)|[Note](007.Reverse_Integer/note.md)|Easy|`Math`|
 |60|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](009.Palindrome_Number/java_solution.java)|[Note](009.Palindrome_Number/note.md)|Easy|`Math`|
+|61|26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](026.Remove_Duplicates_from_Sorted_Array/java_solution.java)|[Note](026.Remove_Duplicates_from_Sorted_Array/note.md)|Easy|`Math`|
