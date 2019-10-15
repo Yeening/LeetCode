@@ -68,3 +68,4 @@ LeetCode solutions in C++ 11 and Python3.
 |60|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](009.Palindrome_Number/java_solution.java)|[Note](009.Palindrome_Number/note.md)|Easy|`Math`|
 |61|26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](026.Remove_Duplicates_from_Sorted_Array/java_solution.java)|[Note](026.Remove_Duplicates_from_Sorted_Array/note.md)|Easy|`Two Pointers`|
 |62|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](027.Remove_Element/java_solution.java)|[Note](027.Remove_Element/note.md)|Easy|`Two Pointers`|
+|63|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/)|[Java](035.Search_Insert_Position/java_solution.java)|[Note](035.Search_Insert_Position/note.md)|Easy|`Binary Search`|
