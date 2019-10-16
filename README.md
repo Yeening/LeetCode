@@ -69,3 +69,4 @@ LeetCode solutions in C++ 11 and Python3.
 |61|26|[Remove_Duplicates_from_Sorted_Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](026.Remove_Duplicates_from_Sorted_Array/java_solution.java)|[Note](026.Remove_Duplicates_from_Sorted_Array/note.md)|Easy|`Two Pointers`|
 |62|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](027.Remove_Element/java_solution.java)|[Note](027.Remove_Element/note.md)|Easy|`Two Pointers`|
 |63|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/)|[Java](035.Search_Insert_Position/java_solution.java)|[Note](035.Search_Insert_Position/note.md)|Easy|`Binary Search`|
+|64|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](058.Length_of_Last_Word/java_solution.java)|[Note](058.Length_of_Last_Word/note.md)|Easy|`String`|
