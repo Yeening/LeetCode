@@ -70,3 +70,5 @@ LeetCode solutions in C++ 11 and Python3.
 |62|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](027.Remove_Element/java_solution.java)|[Note](027.Remove_Element/note.md)|Easy|`Two Pointers`|
 |63|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/)|[Java](035.Search_Insert_Position/java_solution.java)|[Note](035.Search_Insert_Position/note.md)|Easy|`Binary Search`|
 |64|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](058.Length_of_Last_Word/java_solution.java)|[Note](058.Length_of_Last_Word/note.md)|Easy|`String`|
+|65|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](067.Add_Binary/java_solution.java)||Easy|`Math`|
+|66|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](066.Plus_One/java_solution.java)||Easy|`Math`|
