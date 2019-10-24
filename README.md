@@ -75,3 +75,4 @@ LeetCode solutions in C++ 11 and Python3.
 |67|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](069.Sqrt(x)/java_solution.java)||Easy|`Binary Search`|
 |68|70|[CLimbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](070.Climbing_Stairs/java_solution.java)||Easy|`Dynamic Programming`|
 |69|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](054.Spiral_Matrix/java_solution.java)|[Note](054.Spiral_Matrix/note.md)|Medium|`Array`|
+|70|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](100.Same_Tree/java_solution.java)||Easy|`Tree`|
