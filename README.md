@@ -76,3 +76,4 @@ LeetCode solutions in C++ 11 and Python3.
 |68|70|[CLimbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](070.Climbing_Stairs/java_solution.java)||Easy|`Dynamic Programming`|
 |69|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](054.Spiral_Matrix/java_solution.java)|[Note](054.Spiral_Matrix/note.md)|Medium|`Array`|
 |70|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](100.Same_Tree/java_solution.java)||Easy|`Tree`|
+|71|56|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](056.Merge_Intervals/java_solution.java)|[Note](056.Merge_Intervals/note.md)|Medium|`Sort`|
