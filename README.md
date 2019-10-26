@@ -79,3 +79,4 @@ LeetCode solutions in C++ 11 and Python3.
 |71|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](056.Merge_Intervals/java_solution.java)|[Note](056.Merge_Intervals/note.md)|Medium|`Sorting`|
 |72|101|[Sammetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](101.Symmetric_Tree/java_solution.java)||Easy|`Tree`|
 |73|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](102.Binary_Tree_Level_Order_Traversal/java_solution.java)||Medium|`Tree` `BFS`|
+|74|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](023.Merge_k_Sorted_Lists/java_solution.java)|[Note](023.Merge_k_Sorted_Lists/note.md)|Hard|`Divide and Conquer`|
