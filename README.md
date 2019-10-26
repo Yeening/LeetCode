@@ -78,4 +78,4 @@ LeetCode solutions in C++ 11 and Python3.
 |70|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](100.Same_Tree/java_solution.java)||Easy|`Tree`|
 |71|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](056.Merge_Intervals/java_solution.java)|[Note](056.Merge_Intervals/note.md)|Medium|`Sorting`|
 |72|101|[Sammetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](101.Symmetric_Tree/java_solution.java)||Easy|`Tree`|
-|73|102|[Sammetric Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](102.Binary_Tree_Level_Order_Traversal/java_solution.java)||Medium|`Tree` `BFS`|
+|73|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](102.Binary_Tree_Level_Order_Traversal/java_solution.java)||Medium|`Tree` `BFS`|
