@@ -84,3 +84,4 @@ LeetCode solutions in C++ 11 and Python3.
 |76|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](572.Subtree_of_Another_Tree/java_solution.java)|[Note](572.Subtree_of_Another_Tree/note.md)|Easy|`Tree`|
 |77|107|[Binary_Tree_Level_Order_Traversal_II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](107.Binary_Tree_Level_Order_Traversal_II/java_solution.java)||Easy|`Tree`|
 |78|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Sql](176.Second_Highest_Salary/sql_solution.sql)||Easy|`SQL`|
+|79|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Sql](177.Nth_Highest_Salary/sql_solution.sql)||Medium|`SQL`|
