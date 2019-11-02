@@ -87,4 +87,4 @@ LeetCode solutions in C++ 11 and Python3.
 |79|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Sql](177.Nth_Highest_Salary/sql_solution.sql)||Medium|`SQL`|
 |80|829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](829.Consecutive_Numbers_Sum/java_solution.java)|[Note](829.Consecutive_Numbers_Sum/note.md)|Hard|`Math`|
 |81|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](239.Sliding_Window_Maximum/java_solution.java)|[Note](239.Sliding_Window_Maximum/note.md)|Hard|`Sliding Window`|
-|82|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/)|[Java](076.Minimum_Window_Substring/java_solution.java)|[Note](076.Minimum_Window_Substring/note.md)|Hard|`Sliding Window` `Hash Table` `Two Pointers`|
+|82|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/)|[Java](076.Minimum_Window_Substring/java_solution.java) [C++](076.Minimum_Window_Substring/cpp_solution.cpp)|[Note](076.Minimum_Window_Substring/note.md)|Hard|`Sliding Window` `Hash Table` `Two Pointers`|
