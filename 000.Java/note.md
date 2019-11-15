@@ -80,3 +80,6 @@ String s2 = String.valueOf(ca);
 //Source: arr1, Source From:0, Target: arr2, Target from: 0, length: 1
 System.arraycopy(arr1, 0, arr2, 0, 1);
 ```
+
+## Arrays.copyOfRange(arr, i, i+k)
+* Arrays.copyOfRange(arr, i, i+k), return a copied array
