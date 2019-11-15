@@ -74,3 +74,9 @@ String s2 = String.valueOf(ca);
 * [HashTable](https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html)
 * [Difference between HashMap and HashTable](https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/)
 
+## System.arraycopy()
+* [TutorialsPoint](https://www.tutorialspoint.com/java/lang/system_arraycopy.html)
+```
+//Source: arr1, Source From:0, Target: arr2, Target from: 0, length: 1
+System.arraycopy(arr1, 0, arr2, 0, 1);
+```
