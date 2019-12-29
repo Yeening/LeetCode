@@ -97,3 +97,4 @@ LeetCode solutions in C++, Java and Python3.
 |89|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](099.Recover_Binary_Search_Tree/java_solution.java) |[Note](099.Recover_Binary_Search_Tree/note.md)|Hard|`Tree`|
 |90|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](124.Binary_Tree_Maximum_Path_Sum/java_solution.java) |[Note](124.Binary_Tree_Maximum_Path_Sum/note.md)|Hard|`Tree`|
 |91|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](127.Word_Ladder/java_solution.java) |[Note](127.Word_Ladder/note.md)|Medium|`BFS`|
+|92|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](138.Copy_List_with_Random_Pointer/java_solution.java) |[Note](138.Copy_List_with_Random_Pointer/note.md)|Medium|`Linked List`|
