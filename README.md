@@ -96,3 +96,4 @@ LeetCode solutions in C++, Java and Python3.
 |88|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](042.Trapping_Rain_Water/java_solution.java) |[Note](042.Trapping_Rain_Water/note.md)|Hard|`Two Pointers`|
 |89|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](099.Recover_Binary_Search_Tree/java_solution.java) |[Note](099.Recover_Binary_Search_Tree/note.md)|Hard|`Tree`|
 |90|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](124.Binary_Tree_Maximum_Path_Sum/java_solution.java) |[Note](124.Binary_Tree_Maximum_Path_Sum/note.md)|Hard|`Tree`|
+|91|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](127.Word_Ladder/java_solution.java) |[Note](127.Word_Ladder/note.md)|Medium|`BFS`|
