@@ -102,3 +102,4 @@ LeetCode solutions in C++, Java and Python3.
 |94|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](146.LRU_Cache/java_solution.java) |[Note](146.LRU_Cache/note.md)|Medium|`Design`|
 |95|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](200.Number_of_Islands/java_solution.java) ||Medium|`DFS`|
 |96|201|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](212.Word_Search_II/java_solution.java) |[Note](212.Word_Search_II/note.md)|Hard|`Trie` `Backtracking`|
+|97|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](240.Search_a_2D_Matrix_II/java_solution.java) ||Medium|`Divide and Conquer`|
