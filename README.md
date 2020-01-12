@@ -106,3 +106,4 @@ LeetCode solutions in C++, Java and Python3.
 |98|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](253.Meeting_Rooms_II/java_solution.java) |[Note](253.Meeting_Rooms_II/note.md)|Medium|`Heap` `Greedy`|
 |99|273|[Integer to English Words](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](273.Integer_to_English_Words/java_solution.java) ||Hard|`Math`|
 |100|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](295.Find_Median_from_Data_Stream/java_solution.java) |[Note](295.Find_Median_from_Data_Stream/note.md)|Hard|`Design` `Heap`|
+|101|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Java](1192.Critical_Connections_in_a_Network/java_solution.java) |[Note](1192.Critical_Connections_in_a_Network/note.md)|Hard|`DFS`|
