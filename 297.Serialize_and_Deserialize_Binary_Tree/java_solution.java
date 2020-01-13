@@ -113,3 +113,74 @@ public class Codec {
 // Your Codec object will be instantiated and called as such:
 // Codec codec = new Codec();
 // codec.deserialize(codec.serialize(root));
+
+//Solution3: 56%
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+public class Codec {
+
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        if(root==null) return "null";
+        Deque<TreeNode> deque = new LinkedList<>();
+        StringBuilder sb = new StringBuilder();
+        deque.push(root);
+        sb.append(root.val);
+        sb.append(',');
+        while(!deque.isEmpty()){
+            TreeNode current = deque.poll();
+            if(current.left!=null){
+                deque.addLast(current.left);
+                sb.append(current.left.val);
+                sb.append(',');
+            }
+            else sb.append("null,");
+            
+            if(current.right!=null){
+                deque.addLast(current.right);
+                sb.append(current.right.val);
+                sb.append(',');
+            }
+            else sb.append("null,");
+        }
+        
+        return sb.toString();
+    }
+
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+        if(data.charAt(0)=='n') return null;
+        String[] array = data.split(",");
+        TreeNode[] nodes = new TreeNode[array.length];
+        for(int i = 0; i < nodes.length; i++){
+            if(array[i].equals("null")) nodes[i] = null;
+            else nodes[i] = new TreeNode(Integer.valueOf(array[i]));
+        }
+        int index = 0;
+        Deque<TreeNode> deque = new LinkedList<>();
+        deque.addLast(nodes[index++]);
+        //level-first recover
+        while(!deque.isEmpty() && index<nodes.length){
+            TreeNode current = deque.pollFirst();
+            if(current==null) continue;
+            current.left = nodes[index++];
+            current.right = nodes[index++];
+            deque.addLast(current.left);
+            deque.addLast(current.right);
+        }
+        
+        return nodes[0];
+    }
+}
+
+// Your Codec object will be instantiated and called as such:
+// Codec codec = new Codec();
+// codec.deserialize(codec.serialize(root));
