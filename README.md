@@ -108,3 +108,4 @@ LeetCode solutions in C++, Java and Python3.
 |100|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](295.Find_Median_from_Data_Stream/java_solution.java) |[Note](295.Find_Median_from_Data_Stream/note.md)|Hard|`Design` `Heap`|
 |101|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Java](1192.Critical_Connections_in_a_Network/java_solution.java) |[Note](1192.Critical_Connections_in_a_Network/note.md)|Hard|`DFS`|
 |102|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Java](937.Reorder_Data_in_Log_Files/java_solution.java) ||Easy|`String`|
+|103|642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)|[Java](642.Design_Search_Autocomplete_System/java_solution.java) |[Note](642.Design_Search_Autocomplete_System/note.md)|Hard|`Design` `Trie`|
