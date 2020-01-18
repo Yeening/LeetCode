@@ -110,3 +110,4 @@ LeetCode solutions in C++, Java and Python3.
 |102|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Java](937.Reorder_Data_in_Log_Files/java_solution.java) ||Easy|`String`|
 |103|642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)|[Java](642.Design_Search_Autocomplete_System/java_solution.java) |[Note](642.Design_Search_Autocomplete_System/note.md)|Hard|`Design` `Trie`|
 |104|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Java](252.Meeting_Rooms/java_solution.java) ||Easy|`Sort`|
+|105|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Java](323.Number_of_Connected_Components_in_an_Undirected_Graph/java_solution.java) |[Note](323.Number_of_Connected_Components_in_an_Undirected_Graph/note.md)|Medium|`DFS` `Union Find`|
