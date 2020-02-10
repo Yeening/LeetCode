@@ -89,3 +89,9 @@ System.arraycopy(arr1, 0, arr2, 0, 1);
 //initializing array of list
 List<Integer>[] buckets = new List[nums.length+1];
 ```
+
+## Java Stream to transfer LinkedList to array
+```
+LinkedList<Integer> l = new LinkedList<>();
+int[] arr = l.stream().mapToInt(i->i).toArray();
+```
