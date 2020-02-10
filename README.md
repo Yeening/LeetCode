@@ -112,3 +112,4 @@ LeetCode solutions in C++, Java and Python3.
 |104|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Java](252.Meeting_Rooms/java_solution.java) ||Easy|`Sort`|
 |105|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Java](323.Number_of_Connected_Components_in_an_Undirected_Graph/java_solution.java) |[Note](323.Number_of_Connected_Components_in_an_Undirected_Graph/note.md)|Medium|`DFS` `Union Find`|
 |106|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](347.Top_K_Frequent_Elements/java_solution.java) ||Medium|`Heap`|
+|107|735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](735.Asteroid_Collision/java_solution.java) |[Note](735.Asteroid_Collision/note.md)|Medium|`Stack`|
