@@ -83,3 +83,9 @@ System.arraycopy(arr1, 0, arr2, 0, 1);
 
 ## Arrays.copyOfRange(arr, i, i+k)
 * Arrays.copyOfRange(arr, i, i+k), return a copied array
+
+## Array of List
+```
+//initializing array of list
+List<Integer>[] buckets = new List[nums.length+1];
+```
