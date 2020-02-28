@@ -98,11 +98,11 @@ int[] arr = l.stream().mapToInt(i->i).toArray();
 ## Map.Entry
 ```
 for(Map.Entry<String, Integer> entry: map.entrySet()){
-            min_heap.offer(entry);
-            if(min_heap.size()>k) min_heap.poll();
-        }
-        List<String> res = new LinkedList<>();
-        while(!min_heap.isEmpty()){
-            res.add(0, min_heap.poll().getKey());
-        }
+    min_heap.offer(entry);
+    if(min_heap.size()>k) min_heap.poll();
+}
+List<String> res = new LinkedList<>();
+while(!min_heap.isEmpty()){
+    res.add(0, min_heap.poll().getKey());
+}
 ```
