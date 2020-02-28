@@ -116,3 +116,4 @@ LeetCode solutions in C++, Java and Python3.
 |108|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](121.Best_Time_to_Buy_and_Sell_Stock/java_solution.java) ||Easy|`Array`|
 |109|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](994.Rotting_Oranges/java_solution.java) ||Easy|`BFS`|
 |110|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](981.Time_Based_Key-Value_Store/java_solution.java) |[Note](981.Time_Based_Key-Value_Store/note.md)|Medium|`Hash Table`|
+|111|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](692.Top_K_Frequent_Words/java_solution.java) ||Medium|`Heap`|
