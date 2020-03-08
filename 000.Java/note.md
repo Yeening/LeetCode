@@ -106,3 +106,12 @@ while(!min_heap.isEmpty()){
     res.add(0, min_heap.poll().getKey());
 }
 ```
+
+## Random
+```
+import Java.util.Random
+
+Random random = new Random();
+int randInt = random.nextInt();
+int randInt1 = random.nextInt(100);
+```
