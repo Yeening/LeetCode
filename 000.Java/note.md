@@ -113,5 +113,5 @@ import Java.util.Random
 
 Random random = new Random();
 int randInt = random.nextInt();
-int randInt1 = random.nextInt(100);
+int randInt1 = random.nextInt(100); //Random int between 0 and 99
 ```
