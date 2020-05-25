@@ -120,3 +120,4 @@ LeetCode solutions in C++, Java and Python3.
 |112|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](380.Insert_Delete_GetRandom_O(1)/java_solution.java) |[Note](380.Insert_Delete_GetRandom_O(1)/note.md)|Medium|`Hash Table` `Design`|
 |113|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](953.Verifying_an_Alien_Dictionary/java_solution.java) ||Easy|`Hash Table`|
 |114|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](269.Alien_Dictionary/java_solution.java) ||Hard|`Topological Sort`|
+|115|79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](079.Word_Search/java_solution.java) ||Medium|`Backtracking`|
