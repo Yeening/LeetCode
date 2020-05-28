@@ -50,11 +50,11 @@ class Solution {
         s += '+';
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
+            if(c == ' ') continue;
             if(Character.isDigit(c)){
                 num = num * 10 + (s.charAt(i) - '0');
                 continue;
             }
-            if(c == ' ') continue;
             if(lastOp == '+'){
                 stack.push(num);
             }
