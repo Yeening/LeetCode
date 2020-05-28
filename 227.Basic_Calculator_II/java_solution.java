@@ -40,3 +40,38 @@ class Solution {
         else if(operator == '/') numStack.push(tmp2 / tmp1);
     }
 }
+
+//Solution2, iterative, 72%
+class Solution {
+    public int calculate(String s) {
+        Stack<Integer> stack = new Stack<>();
+        int num = 0;
+        char lastOp = '+';
+        s += '+';
+        for(int i = 0; i < s.length(); i++){
+            char c = s.charAt(i);
+            if(Character.isDigit(c)){
+                num = num * 10 + (s.charAt(i) - '0');
+                continue;
+            }
+            if(c == ' ') continue;
+            if(lastOp == '+'){
+                stack.push(num);
+            }
+            else if(lastOp=='-'){
+                stack.push(-num);
+            }
+            else if(lastOp=='*'){
+                stack.push(stack.pop()*num);
+            }
+            else if(lastOp=='/'){
+                stack.push(stack.pop()/num);
+            }
+            num = 0;
+            lastOp = c;
+        }
+        int res = 0;
+        while(!stack.isEmpty()) res += stack.pop();
+        return res;
+    }
+}
