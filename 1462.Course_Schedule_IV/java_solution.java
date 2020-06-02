@@ -1,3 +1,4 @@
+//Floyd–Warshall Algorithm, try every point as a bridge of every pair of points
 class Solution {
     public List<Boolean> checkIfPrerequisite(int n, int[][] prerequisites, int[][] queries) {
         boolean[][] isPre = new boolean[n][n];
