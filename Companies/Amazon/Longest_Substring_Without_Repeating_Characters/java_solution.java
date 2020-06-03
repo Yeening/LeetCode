@@ -1,3 +1,4 @@
+https://leetcode.com/explore/interview/card/amazon/76/array-and-strings/2961/
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int[] map = new int[300];
