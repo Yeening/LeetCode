@@ -126,3 +126,4 @@ LeetCode solutions in C++, Java and Python3.
 |118|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](1462.Course_Schedule_IV/java_solution.java) ||Medium|`Graph`|
 |119|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](011.Container_With_Most_Water/java_solution.java) |[Note](011.Container_With_Most_Water/note.md)|Medium|`Two Pointers`|
 |120|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](016.3Sum_Closest/java_solution.java) ||Medium|`Two Pointers`|
+|121|28|[Implemant strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](028.Implement_strStr()/java_solution.java) ||Easy|`Two Pointers`|
