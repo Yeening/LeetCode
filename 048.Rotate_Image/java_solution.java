@@ -1,4 +1,4 @@
-//Rotating four rectangles, beating 82.73%, O(N^2)
+//Solution 1: Rotating four rectangles, beating 82.73%, O(N^2)
 class Solution {
     public void rotate(int[][] matrix) {
         int N = matrix.length;
@@ -19,6 +19,29 @@ class Solution {
                 int xi = corners[0][0] + directions[0][0] * i + directions[0][1] * j;
                 int xj = corners[0][1] + directions[0][2] * i + directions[0][3] * j;
                 matrix[xi][xj] = last;
+            }
+        }
+    }
+}
+
+//Solution2: Transpose - > reverse in row, beats 100%, O(N^2)
+class Solution {
+    public void rotate(int[][] matrix) {
+        int N = matrix.length, tmp = 0;
+        //Transpose
+        for(int i = 0; i < N; i++){
+            for(int j = i; j < N; j++){ //Note: j: [i,N-1]
+                tmp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = tmp;
+            }
+        }
+        //Reverse in row
+        for(int i = 0; i < N; i++){
+            for(int j = 0; j < N/2; j++){
+                tmp = matrix[i][j];
+                matrix[i][j] = matrix[i][N-1-j];
+                matrix[i][N-1-j] = tmp;
             }
         }
     }
