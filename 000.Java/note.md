@@ -45,6 +45,7 @@ s.equals("ABC");
 String[] arrOfStr = str.split("@", 2);
 ```
 ### public String[] split(String regex)
+[Reference](https://blog.csdn.net/shenzhennba/article/details/8086110)
 ```Java
 String str = "GeeksforGeeks:A Computer Science Portal"; 
 String[] arrOfStr = str.split(":"); 
