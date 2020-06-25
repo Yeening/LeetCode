@@ -130,5 +130,4 @@ LeetCode solutions in C++, Java and Python3.
 |122|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](048.Rotate_Image/java_solution.java) ||Medium|`Array`|
 |123|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](165.Compare_Version_Numbers/java_solution.java) ||Medium|`String`|
 |124|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](268.Missing_Numbers/java_solution.java) ||Easy|`Math`|
-|125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](||Easy|`Hash Table`|
-387.First_Unique_Character_in_a_String/java_solution.java) 
+|125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
