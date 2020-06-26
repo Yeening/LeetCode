@@ -131,3 +131,4 @@ LeetCode solutions in C++, Java and Python3.
 |123|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](165.Compare_Version_Numbers/java_solution.java) ||Medium|`String`|
 |124|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](268.Missing_Numbers/java_solution.java) ||Easy|`Math`|
 |125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
+|126|819|[First Unique Character in a String](https://leetcode.com/problems/most-common-word/)|[Java](819.Most_Common_Word/java_solution.java)||Easy|`Hash Table`|
