@@ -132,3 +132,4 @@ LeetCode solutions in C++, Java and Python3.
 |124|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](268.Missing_Numbers/java_solution.java) ||Easy|`Math`|
 |125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
 |126|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Java](819.Most_Common_Word/java_solution.java)||Easy|`Hash Table`|
+|127|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](098.Validate_Binary_Search_Tree/java_solution.java)||Medium|`Tree`|
