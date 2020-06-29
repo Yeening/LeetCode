@@ -12,3 +12,22 @@ class Solution {
               isBST(node.right, node.val, upperBund));
     }
 }
+
+//Iterative in-order traverse
+class Solution {
+    public boolean isValidBST(TreeNode root) {
+        LinkedList<TreeNode> stack = new LinkedList<>();
+        TreeNode pre = null;
+        while(root != null || !stack.isEmpty()){
+            while(root != null){
+                stack.addFirst(root);
+                root = root.left;
+            }
+            root = stack.pollFirst();
+            if(pre!=null && root.val <= pre.val) return false;
+            pre = root;
+            root = root.right;
+        }
+        return true;
+    }
+}
