@@ -9,7 +9,7 @@ class Solution {
     }
 
     private void fill(int[][] image, int i, int j, int newColor, int oldColor){
-        if(i < 0 || i >=M || j<0 || j>=N || image[i][j]!=oldColor || image[i][j] == newColor) return;
+        if(i < 0 || i >=M || j<0 || j>=N || image[i][j]!=oldColor || image[i][j] == newColor) return; //Consider that oldColor == newColor, return when current color equals to newcolor
         image[i][j] = newColor;
         fill(image, i-1, j, newColor, oldColor);
         fill(image, i+1, j, newColor, oldColor);
