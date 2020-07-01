@@ -135,3 +135,4 @@ LeetCode solutions in C++, Java and Python3.
 |127|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](098.Validate_Binary_Search_Tree/java_solution.java)||Medium|`Tree`|
 |128|675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)|[Java](675.Cut_Off_Trees_for_Golf_Event/java_solution.java)||Hard|`BFS`|
 |129|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](236.Lowest_Common_Ancestor_of_a_Binary_Tree/java_solution.java)||Medium|`Tree`|
+|130|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](543.Diameter_of_Binary_Tree/java_solution.java)||Easy|`Tree`|
