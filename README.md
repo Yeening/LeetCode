@@ -141,3 +141,4 @@ LeetCode solutions in C++, Java and Python3.
 |133|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](017.Letter_Combinations_of_a_Phone_Number/java_solution.java)||Medium|`Back Tracking`|
 |134|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[Java](348.Design_Tic-Tac-Toe/java_solution.java)||Medium|`Design`|
 |135|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](155.Min_Stack/java_solution.java)||Easy|`Design`|
+|136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
