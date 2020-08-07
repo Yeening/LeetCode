@@ -1,4 +1,5 @@
 class FreqStack {
+        // Using bucket sorting to store the ints, store multiple times for every item
         Map<Integer, Integer> counts = new HashMap<>();
         Map<Integer, Stack<Integer>> freqBuckets = new HashMap<>();
         int maxFreq = 0;
