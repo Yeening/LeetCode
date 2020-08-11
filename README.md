@@ -142,3 +142,4 @@ LeetCode solutions in C++, Java and Python3.
 |134|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[Java](348.Design_Tic-Tac-Toe/java_solution.java)||Medium|`Design`|
 |135|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](155.Min_Stack/java_solution.java)||Easy|`Design`|
 |136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
+|137|763|[Partition Labels](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](763.Partition_Labels/java_solution.java/java_solution.java)||Medium|`Two pointers`|
