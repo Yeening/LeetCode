@@ -143,3 +143,4 @@ LeetCode solutions in C++, Java and Python3.
 |135|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](155.Min_Stack/java_solution.java)||Easy|`Design`|
 |136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
 |137|763|[Partition Labels](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](763.Partition_Labels/java_solution.java/java_solution.java)||Medium|`Two pointers`|
+|138|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](957.Prison_Cells_After_N_Days/java_solution.java/java_solution.java)||Medium|`Hash Table`|
