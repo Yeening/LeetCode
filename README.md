@@ -145,3 +145,4 @@ LeetCode solutions in C++, Java and Python3.
 |137|763|[Partition Labels](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](763.Partition_Labels/java_solution.java/java_solution.java)||Medium|`Two pointers`|
 |138|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](957.Prison_Cells_After_N_Days/java_solution.java/java_solution.java)||Medium|`Hash Table`|
 |139|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](349.Intersection_of_Two_Arrays/java_solution.java/java_solution.java)||Easy|`Hash Table`|
+|140|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](350.Intersection_of_Two_Arrays_II/java_solution.java/java_solution.java)||Easy|`Hash Table`|
