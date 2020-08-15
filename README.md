@@ -148,3 +148,4 @@ LeetCode solutions in C++, Java and Python3.
 |140|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](350.Intersection_of_Two_Arrays_II/java_solution.java/java_solution.java)||Easy|`Hash Table`|
 |141|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Medium|`Hash Table`|
 |142|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
+|143|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
