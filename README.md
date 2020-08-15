@@ -150,3 +150,4 @@ LeetCode solutions in C++, Java and Python3.
 |142|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
 |143|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
 |144|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](008.String_to_Integer_(atoi)/java_solution.java/java_solution.java)||Medium|`String`|
+|145|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](234.Palindrome_Linked_List/java_solution.java/java_solution.java)||Easy|`Linked List`|
