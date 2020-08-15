@@ -149,3 +149,4 @@ LeetCode solutions in C++, Java and Python3.
 |141|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Medium|`Hash Table`|
 |142|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
 |143|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](036.Valid_Sudoku/java_solution.java/java_solution.java)||Easy|`Two pointers`|
+|144|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](008.String_to_Integer_(atoi)/java_solution.java/java_solution.java)||Medium|`String`|
