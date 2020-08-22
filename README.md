@@ -161,3 +161,4 @@ LeetCode solutions in C++, Java and Python3.
 |153|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](384.Shuffle_an_Array/java_solution.java)||Medium|`Design`|
 |154|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](412.Fizz_Buzz/java_solution.java)||Easy|`Math`|
 |155|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](204.Count_Primes/java_solution.java)||Easy|`Math`|
+|156|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](326.Power_of_Three/java_solution.java)||Easy|`Math`|
