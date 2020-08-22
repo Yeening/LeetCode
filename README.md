@@ -156,3 +156,4 @@ LeetCode solutions in C++, Java and Python3.
 |148|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](108.Convert_Sorted_Array_to_Binary_Search_Tree/java_solution.java)||Easy|`Tree`|
 |149|88|[Merge Sorted Array](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](088.Merge_Sorted_Array/java_solution.java)||Easy|`Two pointers`|
 |150|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](278.First_Bad_Version/java_solution.java)||Easy|`Binary Search`|
+|151|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](053.Maximum_Subarray/java_solution.java)||Easy|`Array`|
