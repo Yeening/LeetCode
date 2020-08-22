@@ -158,3 +158,4 @@ LeetCode solutions in C++, Java and Python3.
 |150|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](278.First_Bad_Version/java_solution.java)||Easy|`Binary Search`|
 |151|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](053.Maximum_Subarray/java_solution.java)||Easy|`Array`|
 |152|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](198.House_Robber/java_solution.java)||Easy|`DP`|
+|153|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](384.Shuffle_an_Array/java_solution.java)||Medium|`Design`|
