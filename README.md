@@ -160,3 +160,4 @@ LeetCode solutions in C++, Java and Python3.
 |152|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](198.House_Robber/java_solution.java)||Easy|`DP`|
 |153|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](384.Shuffle_an_Array/java_solution.java)||Medium|`Design`|
 |154|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](412.Fizz_Buzz/java_solution.java)||Easy|`Math`|
+|155|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](204.Count_Primes/java_solution.java)||Easy|`Math`|
