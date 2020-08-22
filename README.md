@@ -164,3 +164,4 @@ LeetCode solutions in C++, Java and Python3.
 |156|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](326.Power_of_Three/java_solution.java)||Easy|`Math`|
 |157|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](191.Number_of_1_Bits/java_solution.java)||Easy|`Bit`|
 |158|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](461.Hamming_Distance/java_solution.java)||Easy|`Bit`|
+|159|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](190.Reverse_Bits/java_solution.java)||Easy|`Bit`|
