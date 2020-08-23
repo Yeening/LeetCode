@@ -167,3 +167,4 @@ LeetCode solutions in C++, Java and Python3.
 |159|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](190.Reverse_Bits/java_solution.java)||Easy|`Bit`|
 |160|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](118.Pascal's_Triangle/java_solution.java)||Easy|`Array`|
 |161|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](119.Pascal's_Triangle_II/java_solution.java)||Easy|`Array`|
+|162|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](213.House_Robber_II/java_solution.java)||Medium|`Dynamic Programming`|
