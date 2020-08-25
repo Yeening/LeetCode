@@ -169,3 +169,4 @@ LeetCode solutions in C++, Java and Python3.
 |161|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](119.Pascal's_Triangle_II/java_solution.java)||Easy|`Array`|
 |162|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](213.House_Robber_II/java_solution.java)||Medium|`Dynamic Programming`|
 |163|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](337.House_Robber_III/java_solution.java)||Medium|`DFS`|
+|164|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](073.Set_Matrix_Zeroes/java_solution.java)||Medium|`Array`|
