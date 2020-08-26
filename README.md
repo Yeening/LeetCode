@@ -171,3 +171,4 @@ LeetCode solutions in C++, Java and Python3.
 |163|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](337.House_Robber_III/java_solution.java)||Medium|`DFS`|
 |164|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](073.Set_Matrix_Zeroes/java_solution.java)||Medium|`Array`|
 |165|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](334.Increasing_Triplet_Subsequence/java_solution.java)||Medium|`Array`|
+|166|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](163.Missing_Ranges/java_solution.java)||Medium|`Array`|
