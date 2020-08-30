@@ -172,3 +172,5 @@ LeetCode solutions in C++, Java and Python3.
 |164|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](073.Set_Matrix_Zeroes/java_solution.java)||Medium|`Array`|
 |165|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](334.Increasing_Triplet_Subsequence/java_solution.java)||Medium|`Array`|
 |166|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](163.Missing_Ranges/java_solution.java)||Medium|`Array`|
+|167|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](160.Intersection_of_Two_Linked_Lists/java_solution.java)||Easy|`Linked List`|
+|168|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](328.Odd_Even_Linked_List/java_solution.java)||Medium|`Linked List`|
