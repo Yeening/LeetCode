@@ -174,3 +174,4 @@ LeetCode solutions in C++, Java and Python3.
 |166|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](163.Missing_Ranges/java_solution.java)||Medium|`Array`|
 |167|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](160.Intersection_of_Two_Linked_Lists/java_solution.java)||Easy|`Linked List`|
 |168|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](328.Odd_Even_Linked_List/java_solution.java)||Medium|`Linked List`|
+|169|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/java_solution.java)||Medium|`Tree`|
