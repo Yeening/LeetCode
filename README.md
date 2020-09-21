@@ -177,3 +177,4 @@ LeetCode solutions in C++, Java and Python3.
 |169|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/java_solution.java)||Medium|`Tree`|
 |170|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](116.Populating_Next_Right_Pointers_in_Each_Node/java_solution.java)||Medium|`Tree`|
 |171|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](117.Populating_Next_Right_Pointers_in_Each_Node_II/java_solution.java)||Medium|`Tree`|
+|172|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Java](285.Inorder_Successor_in_BST/java_solution.java)||Medium|`Tree`|
