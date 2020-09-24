@@ -40,7 +40,7 @@ LeetCode solutions in C++, Java and Python3.
 |32|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
 |33|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](264.Ugly_Number_II/java_solution.java)|[Note](264.Ugly_Number_II/note.md)|Medium|`Math` `Heap`|
 |34|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](263.Ugly_Number/java_solution.java)||Easy|`Math`|
-|35|78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](078.Subsets/java_solution.java)|[Note](078.Subsets/note.md)|Medium|`Backtracking`|
+|35|78|[Subsets](https://leetcode.com/problems/subsets/) 2|[Java](078.Subsets/java_solution.java)|[Note](078.Subsets/note.md)|Medium|`Backtracking`|
 |36|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](090.Subsets_II/java_solution.java)|[Note](090.Subsets_II/note.md)|Medium|`Backtracking`|
 |37|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](051.N-Queens/java_solution.java)|[Note](051.N-Queens/note.md)|Hard|`Backtracking`|
 |38|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](052.N-Queens_II/java_solution.java)|[Note](052.N-Queens_II/note.md)|Hard|`Backtracking`|
