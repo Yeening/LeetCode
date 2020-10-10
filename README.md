@@ -179,3 +179,4 @@ LeetCode solutions in C++, Java and Python3.
 |171|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](117.Populating_Next_Right_Pointers_in_Each_Node_II/java_solution.java)||Medium|`Tree`|
 |172|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Java](285.Inorder_Successor_in_BST/java_solution.java)||Medium|`Tree`|
 |173|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](075.Sort_Colors/java_solution.java)||Medium|`Two pointers`|
+|174|76|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Java](251.Flatten_2D_Vector/java_solution.java)||Medium|`Design`|
