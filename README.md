@@ -37,7 +37,7 @@ LeetCode solutions in C++, Java and Python3.
 |29|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](237.Delete_Node_in_a_Linked_List/java_solution.java)||Easy|`Linked List`|
 |30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
 |31|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](258.Add_Digits/java_solution.java)|[Note](258.Add_Digits/note.md)|Easy|`Math`|
-|32|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
+|32|202|[Happy Number](https://leetcode.com/problems/happy-number/) 2|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
 |33|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](264.Ugly_Number_II/java_solution.java)|[Note](264.Ugly_Number_II/note.md)|Medium|`Math` `Heap`|
 |34|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](263.Ugly_Number/java_solution.java)||Easy|`Math`|
 |35|78|[Subsets](https://leetcode.com/problems/subsets/) 2|[Java](078.Subsets/java_solution.java)|[Note](078.Subsets/note.md)|Medium|`Backtracking`|
