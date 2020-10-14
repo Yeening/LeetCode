@@ -183,3 +183,4 @@ LeetCode solutions in C++, Java and Python3.
 |175|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](300.Longest_Increasing_Subsequence/java_solution.java)||Medium|`Binary Search`|
 |176|322|[Longest Increasing Subsequence](https://leetcode.com/problems/coin-change/)|[Java](322.Coin_Change/java_solution.java)||Medium|`Dynamic Programming`|
 |177|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](055.Jump_Game/java_solution.java)||Medium|`Dynamic Programming`|
+|178|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](162.Find_Peak_Element/java_solution.java)||Medium|`Binary Search`|
