@@ -51,7 +51,7 @@ LeetCode solutions in C++, Java and Python3.
 |43|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](033.Search_in_Rotated_Sorted_Array/cpp_solution.cpp) [Python](033.Search_in_Rotated_Sorted_Array/python_solution.py) [Java](033.Search_in_Rotated_Sorted_Array/java_solution.java)|[Note](033.Search_in_Rotated_Sorted_Array/notes.md)|Medium|`Binary Search`|
 |44|34|[Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](034.Search_for_a_Range/cpp_solution.cpp) [Python](034.Search_for_a_Range/python_solution.py) [Java](034.Search_for_a_Range/java_solution.java)|[Note](034.Search_for_a_Range/notes.md)|Medium|`Binary Search`|
 |45|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[C++](049.Group_Anagrams/cpp_solution.cpp) [Python](049.Group_Anagrams/python_solution.py) [Java](049.Group_Anagrams/java_solution.java)|[Note](049.Group_Anagrams/notes.md)|Medium|`Hash Table`|
-|46|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
+|46|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) 2|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |47|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |48|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](175.Combine_Two_Tables/sql_solution.sql)||Easy|`SQL`|
 |49|169|[Majority Element](https://leetcode.com/problems/combine-two-tables/)|[Java](169.Majority_Element/java_solution.java)||Easy|`Array`|
@@ -117,7 +117,7 @@ LeetCode solutions in C++, Java and Python3.
 |109|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](994.Rotting_Oranges/java_solution.java) ||Easy|`BFS`|
 |110|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](981.Time_Based_Key-Value_Store/java_solution.java) |[Note](981.Time_Based_Key-Value_Store/note.md)|Medium|`Hash Table`|
 |111|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](692.Top_K_Frequent_Words/java_solution.java) ||Medium|`Heap`|
-|112|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](380.Insert_Delete_GetRandom_O(1)/java_solution.java) |[Note](380.Insert_Delete_GetRandom_O(1)/note.md)|Medium|`Hash Table` `Design`|
+|112|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) 2|[Java](380.Insert_Delete_GetRandom_O(1)/java_solution.java) |[Note](380.Insert_Delete_GetRandom_O(1)/note.md)|Medium|`Hash Table` `Design`|
 |113|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](953.Verifying_an_Alien_Dictionary/java_solution.java) ||Easy|`Hash Table`|
 |114|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](269.Alien_Dictionary/java_solution.java) ||Hard|`Topological Sort`|
 |115|79|[Word Search](https://leetcode.com/problems/word-search/) 2|[Java](079.Word_Search/java_solution.java) ||Medium|`Backtracking`|
@@ -139,7 +139,7 @@ LeetCode solutions in C++, Java and Python3.
 |131|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](207.Course_Schedule/java_solution.java)||Medium|`DFS`|
 |132|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](733.Flood_Fill/java_solution.java)||Easy|`DFS`|
 |133|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](017.Letter_Combinations_of_a_Phone_Number/java_solution.java)||Medium|`Back Tracking`|
-|134|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[Java](348.Design_Tic-Tac-Toe/java_solution.java)||Medium|`Design`|
+|134|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 2|[Java](348.Design_Tic-Tac-Toe/java_solution.java)||Medium|`Design`|
 |135|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](155.Min_Stack/java_solution.java)||Easy|`Design`|
 |136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
 |137|763|[Partition Labels](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](763.Partition_Labels/java_solution.java/java_solution.java)||Medium|`Two pointers`|
