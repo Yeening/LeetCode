@@ -181,3 +181,4 @@ LeetCode solutions in C++, Java and Python3.
 |173|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](075.Sort_Colors/java_solution.java)||Medium|`Two pointers`|
 |174|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Java](251.Flatten_2D_Vector/java_solution.java)||Medium|`Design`|
 |175|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](300.Longest_Increasing_Subsequence/java_solution.java)||Medium|`Binary Search`|
+|176|322|[Longest Increasing Subsequence](https://leetcode.com/problems/coin-change/)|[Java](322.Coin_Change/java_solution.java)||Medium|`Dynamic Programming`|
