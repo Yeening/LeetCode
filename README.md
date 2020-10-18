@@ -185,3 +185,4 @@ LeetCode solutions in C++, Java and Python3.
 |177|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](055.Jump_Game/java_solution.java)||Medium|`Dynamic Programming`|
 |178|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](162.Find_Peak_Element/java_solution.java)||Medium|`Binary Search`|
 |179|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](215.Kth_Largest_Element_in_an_Array/java_solution.java)||Medium|`Divide and Conquer`|
+|180|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](171.Excel_Sheet_Column_Number/java_solution.java)||Easy|`Math`|
