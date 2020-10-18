@@ -186,3 +186,4 @@ LeetCode solutions in C++, Java and Python3.
 |178|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](162.Find_Peak_Element/java_solution.java)||Medium|`Binary Search`|
 |179|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](215.Kth_Largest_Element_in_an_Array/java_solution.java)||Medium|`Divide and Conquer`|
 |180|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](171.Excel_Sheet_Column_Number/java_solution.java)||Easy|`Math`|
+|181|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](172.Factorial_Trailing_Zeroes/java_solution.java)||Easy|`Math`|
