@@ -72,7 +72,7 @@ LeetCode solutions in C++, Java and Python3.
 |64|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](058.Length_of_Last_Word/java_solution.java)|[Note](058.Length_of_Last_Word/note.md)|Easy|`String`|
 |65|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](067.Add_Binary/java_solution.java)||Easy|`Math`|
 |66|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](066.Plus_One/java_solution.java)||Easy|`Math`|
-|67|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](069.Sqrt(x)/java_solution.java)||Easy|`Binary Search`|
+|67|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) 2|[Java](069.Sqrt(x)/java_solution.java)||Easy|`Binary Search`|
 |68|70|[CLimbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](070.Climbing_Stairs/java_solution.java)||Easy|`Dynamic Programming`|
 |69|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](054.Spiral_Matrix/java_solution.java)|[Note](054.Spiral_Matrix/note.md)|Medium|`Array`|
 |70|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](100.Same_Tree/java_solution.java)||Easy|`Tree`|
