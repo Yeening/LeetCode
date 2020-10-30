@@ -189,3 +189,4 @@ LeetCode solutions in C++, Java and Python3.
 |181|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](172.Factorial_Trailing_Zeroes/java_solution.java)||Easy|`Math`|
 |182|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](050.Pow(x,%20n)/java_solution.java)||Medium|`Math`|
 |183|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](29.Divide_Two_Integers/java_solution.java)||Medium|`Math`|
+|184|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Java](166.Fraction_to_Recurring_Decimal/java_solution.java)||Medium|`Math`|
