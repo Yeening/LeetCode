@@ -54,7 +54,7 @@ LeetCode solutions in C++, Java and Python3.
 |46|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) 2|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |47|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |48|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](175.Combine_Two_Tables/sql_solution.sql)||Easy|`SQL`|
-|49|169|[Majority Element](https://leetcode.com/problems/combine-two-tables/)|[Java](169.Majority_Element/java_solution.java)||Easy|`Array`|
+|49|169|[Majority Element](https://leetcode.com/problems/combine-two-tables/) 2|[Java](169.Majority_Element/java_solution.java)||Easy|`Array`|
 |50|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](242.Valid_Anagram/java_solution.java)||Easy|`Hash Table`|
 |51|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 2|[Java](230.Kth_Smallest_Element_in_a_BST/java_solution.java)||Medium|`Tree` `Binary Search`|
 |52|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](217.Contains_Duplicate/java_solution.java)||Easy|`Hash Table`|
