@@ -19,3 +19,21 @@ class Solution {
         return Math.max((n + 1) * (maxF - 1) + maxNum, tasks.length);
     }
 }
+
+//Solution 2: Greedy, place the tasks according to the frequency order
+class Solution {
+    public int leastInterval(char[] tasks, int n) {
+        int[] fre = new int[26];
+        for(char c: tasks) {
+            fre[c-'A']++;
+        }
+        Arrays.sort(fre);
+        int maxFre = fre[25];
+        int idleTime = (maxFre-1) * n;
+        for(int i = 24; i >= 0; i--){
+            idleTime -= Math.min(maxFre-1, fre[i]);
+        }
+        idleTime = Math.max(0, idleTime);
+        return idleTime + tasks.length;
+    }
+}
