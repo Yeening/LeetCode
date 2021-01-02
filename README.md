@@ -9,7 +9,7 @@ LeetCode solutions in C++, Java and Python3.
 |1|1|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](001.Two_Sum/cpp_solution.cpp) [Python](001.Two_Sum/python_solution.py)[Java](001.Two_Sum/java_solution.java)|[Note](001.Two_Sum/notes.md)|Easy|`Hash table`|
 |2|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](002.Add_Two_Numbers/cpp_solution.cpp) [Python](002.Add_Two_Numbers/python_solution.py)[Java](002.Add_Two_Numbers/java_solution.java)|[Note](002.Add_Two_Numbers/notes.md)|Medium|`Linked List`|
 |3|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](003.Longest_Substring_Without_Repeating_Characters/solution.cpp) [Python](003.Longest_Substring_Without_Repeating_Characters/python_solution.py)[Java](003.Longest_Substring_Without_Repeating_Characters/java_solution.java)|[Note](003.Longest_Substring_Without_Repeating_Characters/notes.md)|Medium|`Hash Table`|
-|4|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](015.3Sum/java_solution.java)|[Note](015.3Sum/note.md)|Medium|`Array` `Two Pointers`|
+|4|15|[3Sum](https://leetcode.com/problems/3sum/) 2|[Java](015.3Sum/java_solution.java)|[Note](015.3Sum/note.md)|Medium|`Array` `Two Pointers`|
 |5|18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](018.4Sum/java_solution.java)|[Note](018.4Sum/note.md)|Medium|`Array` `Two Pointers`|
 |6|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Java](454.4Sum_II/java_solution.java)|[Note](454.4Sum_II/note.md)|Medium|`Hash table``Binary Search`|
 |7|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[C++](019.Remove_Nth_Node_From_End_of_List/cpp_solution.cpp) [Python](019.Remove_Nth_Node_From_End_of_List/python_solution.py) [Java](019.Remove_Nth_Node_From_End_of_List/java_solution.java)|[Note](019.Remove_Nth_Node_From_End_of_List/notes.md)|Medium|`Linked List`|
@@ -125,7 +125,7 @@ LeetCode solutions in C++, Java and Python3.
 |117|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](227.Basic_Calculator_II/java_solution.java) ||Medium|`String`|
 |118|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](1462.Course_Schedule_IV/java_solution.java) ||Medium|`Graph`|
 |119|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](011.Container_With_Most_Water/java_solution.java) |[Note](011.Container_With_Most_Water/note.md)|Medium|`Two Pointers`|
-|120|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](016.3Sum_Closest/java_solution.java) ||Medium|`Two Pointers`|
+|120|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) 2|[Java](016.3Sum_Closest/java_solution.java) ||Medium|`Two Pointers`|
 |121|28|[Implemant strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](028.Implement_strStr()/java_solution.java) ||Easy|`Two Pointers`|
 |122|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](048.Rotate_Image/java_solution.java) ||Medium|`Array`|
 |123|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](165.Compare_Version_Numbers/java_solution.java) ||Medium|`String`|
