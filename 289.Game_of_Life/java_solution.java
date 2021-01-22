@@ -1,8 +1,8 @@
 class Solution{
     int M;
     int N;
-    private final int LIVE = 3;
-    private final int DIE = 4;
+    private final int LIVE = 3; // die -> live
+    private final int DIE = 4; // live -> die
     public void gameOfLife(int[][] board) {
         if(board == null || board.length == 0 || board[0].length ==0) return;
         M = board.length;
@@ -30,6 +30,7 @@ class Solution{
         for(int[] mov: dirs){
             int x = i + mov[0], y = j + mov[1];
             if(x >= 0 && x < M && y >= 0 && y < N){
+                // We only filp a live cell to DIE
                 if(board[x][y] == 1 || board[x][y] == DIE) res++;
             }
         }
