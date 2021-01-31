@@ -196,3 +196,4 @@ LeetCode solutions in C++, Java and Python3.
 |188|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](289.Game_of_Life/java_solution.java)||Medium|`Array`|
 |189|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](041.First_Missing_Positive/java_solution.java)||Hard|`Array`|
 |190|930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Java](930.Binary_Subarrays_With_Sum/java_solution.java)||Medium|`Prefix Sum`|
+|191|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](523.Continuous_Subarray_Sum/java_solution.java)||Medium|`Prefix Sum`|
