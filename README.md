@@ -199,3 +199,4 @@ LeetCode solutions in C++, Java and Python3.
 |191|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](523.Continuous_Subarray_Sum/java_solution.java)||Medium|`Prefix Sum`|
 |192|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Java](1314.Matrix_Block_Sum/java_solution.java)||Medium|`Prefix Sum`|
 |193|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](208.Implement_Trie_(Prefix_Tree)/java_solution.java)||Medium|`Trie`|
+|194|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](706.Design_HashMap/java_solution.java)||Easy|`Hash Map`|
