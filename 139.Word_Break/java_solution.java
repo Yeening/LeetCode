@@ -16,3 +16,26 @@ class Solution {
         return dp[s.length()];
     }
 }
+
+// With memo
+class Solution {
+    Boolean[] memo;
+    public boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> wordSet = new HashSet<>(wordDict);
+        memo = new Boolean[s.length() + 1];
+        memo[0] = true;
+        return canBreak(s, s.length(), wordSet);
+    }
+
+    private boolean canBreak(String s, int end, Set<String> wordSet){
+        if(memo[end] != null) return memo[end];
+        for(int i = end - 1; i >= 0; i--){
+            if(wordSet.contains(s.substring(i, end)) && canBreak(s, i, wordSet)){
+                memo[end] = true;
+                return true;
+            }
+        }
+        memo[end] = false;
+        return false;
+    }
+}
