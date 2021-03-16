@@ -28,6 +28,29 @@
 //     }
 // }
 
+// Priority Queue
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        PriorityQueue<ListNode> queue = new PriorityQueue<>((a,b)->(a.val - b.val));
+        for(int i = 0; i < lists.length; i++) {
+            if(lists[i] != null) {
+                queue.add(lists[i]);
+            }
+        }
+        ListNode head = new ListNode();
+        ListNode p = head;
+        while (!queue.isEmpty()) {
+            p.next = queue.poll();
+            if (p.next.next != null) {
+                queue.add(p.next.next);
+            }
+            p = p.next;
+        }
+        return head.next;
+    }
+}
+
+
 //Solution2, using recursion, 3ms 85%
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
