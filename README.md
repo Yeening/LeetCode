@@ -80,7 +80,7 @@ LeetCode solutions in C++, Java and Python3.
 |72|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](101.Symmetric_Tree/java_solution.java)||Easy|`Tree`|
 |73|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](102.Binary_Tree_Level_Order_Traversal/java_solution.java)||Medium|`Tree` `BFS`|
 |74|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 2|[Java](023.Merge_k_Sorted_Lists/java_solution.java)|[Note](023.Merge_k_Sorted_Lists/note.md)|Hard|`Divide and Conquer`|
-|75|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](103.Binary_Tree_Zigzag_Level_Order_Traversal/java_solution.java)|[Note](103.Binary_Tree_Zigzag_Level_Order_Traversal/note.md)|Medium|`Tree`|
+|75|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](103.Binary_Tree_Zigzag_Level_Order_Traversal/java_solution.java) 2|[Note](103.Binary_Tree_Zigzag_Level_Order_Traversal/note.md)|Medium|`Tree`|
 |76|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](572.Subtree_of_Another_Tree/java_solution.java)|[Note](572.Subtree_of_Another_Tree/note.md)|Easy|`Tree`|
 |77|107|[Binary_Tree_Level_Order_Traversal_II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](107.Binary_Tree_Level_Order_Traversal_II/java_solution.java)||Easy|`Tree`|
 |78|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Sql](176.Second_Highest_Salary/sql_solution.sql)||Easy|`SQL`|
