@@ -1,3 +1,4 @@
+// Detail: https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/
 // Solution 1: DFS
 class Solution {
     int M;
