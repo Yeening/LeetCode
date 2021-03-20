@@ -202,3 +202,4 @@ LeetCode solutions in C++, Java and Python3.
 |194|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](706.Design_HashMap/java_solution.java)||Easy|`Hash Map`|
 |195|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](152.Maximum_Product_Subarray/java_solution.java)||Medium|`DP`|
 |196|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](151.Reverse_Words_in_a_String/java_solution.java)||Medium|`String`|
+|197|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](140.Word_Break_II/java_solution.java)||Hard|`Back tracking`|
