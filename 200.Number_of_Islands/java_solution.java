@@ -1,3 +1,4 @@
+// Recursive DFS
 class Solution {
     int m;
     int n;
@@ -25,5 +26,37 @@ class Solution {
         DFSMark(grid, i+1, j); //down
         DFSMark(grid, i, j-1); //left
         DFSMark(grid, i, j+1); //right
+    }
+}
+
+// Non-recursive DFS, 5ms
+class Solution {
+    public int numIslands(char[][] grid) {
+        if(grid == null || grid.length == 0 || grid[0].length == 0) return 0;
+        int res = 0;
+        for(int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[i].length; j++) {
+                if (grid[i][j] == '1') {
+                    DFS(grid, i, j);
+                    res++;
+                }
+            }
+        }
+        return res;
+    }
+
+    private void DFS(char[][] grid, int i, int j) {
+        Stack<Pair<Integer, Integer>> stack = new Stack<>();
+        stack.push(new Pair<>(i, j));
+        while (!stack.isEmpty()) {
+            Pair<Integer, Integer> point = stack.pop();
+            int x = point.getKey(), y = point.getValue();
+            if (grid[x][y] == '0') continue;
+            grid[x][y] = '0';
+            if (x > 0) stack.push(new Pair<>(x-1, y));
+            if (x < grid.length - 1) stack.push(new Pair<>(x+1, y));
+            if (y > 0) stack.push(new Pair<>(x, y-1));
+            if (y < grid[0].length - 1) stack.push(new Pair<>(x, y+1));
+        }
     }
 }
