@@ -205,3 +205,4 @@ LeetCode solutions in C++, Java and Python3.
 |197|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](140.Word_Break_II/java_solution.java)||Hard|`Back tracking`|
 |198|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](210.Course_Schedule_II/java_solution.java)||Medium|`Topological Sort`|
 |199|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](1041.Robot_Bounded_In_Circle/java_solution.java)||Medium|`Math`|
+|200|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Java](221.Maximal_Square/java_solution.java)||Medium|`Dynamic Programming`|
