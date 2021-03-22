@@ -207,3 +207,4 @@ LeetCode solutions in C++, Java and Python3.
 |199|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](1041.Robot_Bounded_In_Circle/java_solution.java)||Medium|`Math`|
 |200|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Java](221.Maximal_Square/java_solution.java)||Medium|`Dynamic Programming`|
 |201|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) 2|[Java](973.K_Closest_Points_to_Origin/java_solution.java/java_solution.java)||Medium|`Divide and Conquer`|
+|202|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](1010.Pairs_of_Songs_With_Total_Durations_Divisible_by_60/java_solution.java/java_solution.java)||Medium|`Array`|
