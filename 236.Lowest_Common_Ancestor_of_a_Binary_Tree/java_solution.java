@@ -38,3 +38,36 @@ class Solution {
         return l || r || root.val == p.val || root.val == q.val;
     }
 }
+
+// Solution3: iterative
+class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        Deque<TreeNode> deque = new LinkedList<>();
+        Map<TreeNode, TreeNode> parents = new HashMap<>();
+        parents.put(root, null);
+        deque.addLast(root);
+        while(!parents.containsKey(p) || !parents.containsKey(q)) {
+            TreeNode cur = deque.pollFirst();
+            if (cur.left != null) {
+                parents.put(cur.left, cur);
+                deque.addLast(cur.left);
+            }
+            if (cur.right != null) {
+                parents.put(cur.right, cur);
+                deque.addLast(cur.right);
+            }
+        }
+        Set<TreeNode> parentSet = new HashSet<>();
+        while(parents.containsKey(p)) {
+            parentSet.add(p);
+            p = parents.get(p);
+        }
+        while(parents.containsKey(q)) {
+            if(parentSet.contains(q)) {
+                return q;
+            }
+            q = parents.get(q);
+        }
+        return q;
+    }
+}
