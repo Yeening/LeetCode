@@ -210,3 +210,4 @@ LeetCode solutions in C++, Java and Python3.
 |202|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](1010.Pairs_of_Songs_With_Total_Durations_Divisible_by_60/java_solution.java/java_solution.java)||Medium|`Array`|
 |203|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](1465.Maximum_Area_of_a_Piece_of_Cake_After_Horizontal_and_Vertical_Cuts/java_solution.java)||Medium|`Array`|
 |204|547|[Number if Islands](https://leetcode.com/problems/number-of-provinces/)|[Java](547.Number_of_Provinces/java_solution.java)||Medium|`Union find` `DFS`|
+|205|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](114.Flatten_Binary_Tree_to_Linked_List/java_solution.java)||Medium|`Tree`|
