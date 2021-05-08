@@ -211,3 +211,4 @@ LeetCode solutions in C++, Java and Python3.
 |203|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](1465.Maximum_Area_of_a_Piece_of_Cake_After_Horizontal_and_Vertical_Cuts/java_solution.java)||Medium|`Array`|
 |204|547|[Number if Islands](https://leetcode.com/problems/number-of-provinces/)|[Java](547.Number_of_Provinces/java_solution.java)||Medium|`Union find` `DFS`|
 |205|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](114.Flatten_Binary_Tree_to_Linked_List/java_solution.java)||Medium|`Tree`|
+|206|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/java_solution.java)||Medium|`Tree`|
