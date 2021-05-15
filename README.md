@@ -212,3 +212,4 @@ LeetCode solutions in C++, Java and Python3.
 |204|547|[Number if Islands](https://leetcode.com/problems/number-of-provinces/)|[Java](547.Number_of_Provinces/java_solution.java)||Medium|`Union find` `DFS`|
 |205|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](114.Flatten_Binary_Tree_to_Linked_List/java_solution.java)||Medium|`Tree`|
 |206|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/java_solution.java)||Medium|`Tree`|
+|207|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Java](652.Find_Duplicate_Subtrees/java_solution.java)||Medium|`Tree`|
