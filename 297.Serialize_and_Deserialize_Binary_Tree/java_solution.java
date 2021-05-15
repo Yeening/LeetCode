@@ -181,6 +181,50 @@ public class Codec {
     }
 }
 
+// Solution: pre-order using deque to deserialize
+public class Codec {
+
+    private String SEP = ",";
+    private String NIL = "#";
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        visit(root, sb);
+        return sb.toString();
+    }
+
+    private void visit(TreeNode root, StringBuilder sb) {
+        if (root == null) {
+            sb.append(NIL);
+            sb.append(SEP);
+            return;
+        }
+        else {
+            sb.append(root.val);
+        }
+        sb.append(SEP);
+        visit(root.left, sb);
+        visit(root.right, sb);
+    }
+
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+//        String[] nodes = data.split(",");
+        Deque<String> nodes = new LinkedList<>(Arrays.asList(data.split(",")));
+        return build(nodes);
+    }
+
+    private TreeNode build(Deque<String> nodes) {
+        if (nodes.isEmpty()) return null;
+        String cur = nodes.pollFirst();
+        if (cur.equals(NIL) || cur.isEmpty()) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(cur));
+        root.left = build(nodes);
+        root.right = build(nodes);
+        return root;
+    }
+}
+
 // Your Codec object will be instantiated and called as such:
 // Codec codec = new Codec();
 // codec.deserialize(codec.serialize(root));
