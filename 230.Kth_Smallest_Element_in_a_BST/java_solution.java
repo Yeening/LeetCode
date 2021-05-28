@@ -24,3 +24,27 @@ class Solution {
         search(node.right);
     }
 }
+
+// Solution 2 with early return
+
+class Solution {
+    private int res = -1;
+    private int count = 0;
+    private int K = 0;
+    public int kthSmallest(TreeNode root, int k) {
+        K = k;
+        visit(root);
+        return res;
+    }
+
+    private void visit(TreeNode root) {
+        if (root == null || count >= K) return;
+        visit(root.left);
+        count++;
+        if (count == K) {
+            res = root.val;
+            return;
+        }
+        visit(root.right);
+    }
+}
