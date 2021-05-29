@@ -214,3 +214,4 @@ LeetCode solutions in C++, Java and Python3.
 |206|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/java_solution.java)||Medium|`Tree`|
 |207|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Java](652.Find_Duplicate_Subtrees/java_solution.java)||Medium|`Tree`|
 |208|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](538.Convert_BST_to_Greater_Tree/java_solution.java)||Medium|`Tree`|
+|209|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](701.Insert_into_a_Binary_Search_Tree/java_solution.java)||Medium|`BST`|
