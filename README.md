@@ -216,3 +216,4 @@ LeetCode solutions in C++, Java and Python3.
 |208|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](538.Convert_BST_to_Greater_Tree/java_solution.java)||Medium|`Tree`|
 |209|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](701.Insert_into_a_Binary_Search_Tree/java_solution.java)||Medium|`BST`|
 |210|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Java](450.Delete_Node_in_a_BST/java_solution.java)||Medium|`BST`|
+|211|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](797.All_Paths_From_Source_to_Target/java_solution.java)||Medium|`DFS`|
