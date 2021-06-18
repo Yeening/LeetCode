@@ -218,3 +218,4 @@ LeetCode solutions in C++, Java and Python3.
 |210|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Java](450.Delete_Node_in_a_BST/java_solution.java)||Medium|`BST`|
 |211|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](797.All_Paths_From_Source_to_Target/java_solution.java)||Medium|`DFS`|
 |212|1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](797.All_Paths_From_Source_to_Target/java_solution.java)||Hard|`BST`|
+|213|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](341.Flatten_Nested_List_Iterator/java_solution.java)||Medium|`Design`|
