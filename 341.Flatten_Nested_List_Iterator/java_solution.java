@@ -43,6 +43,40 @@ public class NestedIterator implements Iterator<Integer> {
     }
 }
 
+// Pre-load solution
+public class NestedIterator implements Iterator<Integer> {
+    LinkedList<Integer> list;
+    Iterator<Integer> it;
+    public NestedIterator(List<NestedInteger> nestedList) {
+        list = new LinkedList<>();
+        for(int i = 0; i < nestedList.size(); i++) {
+            visit(nestedList.get(i));
+        }
+        it = list.iterator();
+    }
+    
+    private void visit(NestedInteger root) {
+        if (root.isInteger()) {
+            int i = root.getInteger();
+            list.add(i);
+        } else {
+            for (NestedInteger child: root.getList()) {
+                visit(child);
+            }
+        }
+    }
+
+    @Override
+    public Integer next() {
+        return it.next();
+    }
+
+    @Override
+    public boolean hasNext() {
+        return it.hasNext();
+    }
+}
+
 /**
  * Your NestedIterator object will be instantiated and called as such:
  * NestedIterator i = new NestedIterator(nestedList);
