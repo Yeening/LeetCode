@@ -8,6 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// Recursive solution 
+// explaination: https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye/di-gui-fan-zhuan-lian-biao-de-yi-bu-fen
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
         if (left == 1) return reverseFirstN(head, right);
