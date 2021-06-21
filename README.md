@@ -220,3 +220,4 @@ LeetCode solutions in C++, Java and Python3.
 |212|1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](797.All_Paths_From_Source_to_Target/java_solution.java)||Hard|`BST`|
 |213|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](341.Flatten_Nested_List_Iterator/java_solution.java)||Medium|`Design`|
 |214|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Java](222.Count_Complete_Tree_Nodes/java_solution.java)||Medium|`Tree`|
+|215|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](092.Reverse_Linked_List_II/java_solution.java)||Medium|`Linked List`|
