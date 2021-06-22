@@ -221,3 +221,4 @@ LeetCode solutions in C++, Java and Python3.
 |213|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](341.Flatten_Nested_List_Iterator/java_solution.java)||Medium|`Design`|
 |214|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Java](222.Count_Complete_Tree_Nodes/java_solution.java)||Medium|`Tree`|
 |215|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](092.Reverse_Linked_List_II/java_solution.java)||Medium|`Linked List`|
+|216|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](025.Reverse_Nodes_in_k-Group/java_solution.java)||Hard|`Linked List`|
