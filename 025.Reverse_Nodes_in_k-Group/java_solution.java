@@ -21,3 +21,25 @@ class Solution {
         return null;
     }
 }
+
+// Iteractive solution
+class Solution {
+    public ListNode reverseKGroup(ListNode head, int k) {
+        ListNode l = head, r = head;
+        for (int i = 0; i < k; i++) {
+            if (r == null) return head;
+            r = r.next;
+        }
+
+        // reverse between l and r [l, r)
+        ListNode pre = l, cur = pre.next;
+        while (cur != r) {
+            ListNode temp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = temp;
+        }
+        l.next = reverseKGroup(r, k);
+        return pre;
+    }
+}
