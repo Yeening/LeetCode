@@ -1,3 +1,5 @@
+// Explanation: https://labuladong.gitbook.io/algo/mu-lu-ye-2/mu-lu-ye-2/bei-bao-zi-ji
+
 // Solution 1: DP
 class Solution {
     public boolean canPartition(int[] nums) {
@@ -63,4 +65,30 @@ class Solution {
         }
         return memo[n][w] == 1;
     }
+}
+
+// Solution 3: DP with space expression
+public boolean canPartition(int[] nums) {
+    int sum = 0;
+    for (int i: nums) {
+        sum += i;
+    }
+    if (sum % 2 == 1) return false;
+    int target = sum / 2;
+    return canFill(nums, nums.length - 1, target);
+}
+
+private boolean canFill(int[] nums, int n, int w) {
+    // dp[w]: canFill w with nums[0, n]
+    boolean[] dp = new boolean[w+1];
+    dp[0] = true;
+    for (int i = 0; i < n; i++) {
+        for(int j = w; j > 0; j--) {
+            if (nums[i] > j) continue;
+            else {
+                dp[j] = dp[j] || dp[j - nums[i]];
+            }
+        }
+    }
+    return dp[w];
 }
