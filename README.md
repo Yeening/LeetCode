@@ -226,4 +226,4 @@ LeetCode solutions in C++, Java and Python3.
 |218|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](1143.Longest_Common_Subsequence/java_solution.java)||Medium|`DP`|
 |219|583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Java](583.Delete_Operation_for_Two_Strings/java_solution.java)||Medium|`DP`|
 |220|712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](712.Minimum_ASCII_Delete_Sum_for_Two_Strings/java_solution.java)||Medium|`DP`|
-|221|72|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/edit-distance/)|[Java](072.Edit_Distance/java_solution.java)||Hard|`DP`|
+|221|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](072.Edit_Distance/java_solution.java)||Hard|`DP`|
