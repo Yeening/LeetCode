@@ -228,3 +228,4 @@ LeetCode solutions in C++, Java and Python3.
 |220|712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](712.Minimum_ASCII_Delete_Sum_for_Two_Strings/java_solution.java)||Medium|`DP`|
 |221|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](072.Edit_Distance/java_solution.java)||Hard|`DP`|
 |222|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](416.Partition_Equal_Subset_Sum/java_solution.java)||Medium|`DP`|
+|223|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](435.Non-overlapping_Intervals/java_solution.java)||Medium|`Greedy`|
