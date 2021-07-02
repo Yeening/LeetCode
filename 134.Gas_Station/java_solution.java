@@ -1,4 +1,5 @@
 // Start from a random station, if the current l->r sum < 0, then move the start back, otherwise, there is enough gas, then move the end forward.
+// If current tank < 0, then we could not start from the current start, move the start backward.
 public static class Solution {
 
     public int canCompleteCircuit(int[] gas, int[] cost) {
