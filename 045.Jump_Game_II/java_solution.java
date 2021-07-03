@@ -1,4 +1,6 @@
-// solution 1: dp, N(N^2)
+// explanation: https://labuladong.gitbook.io/algo/mu-lu-ye-2/mu-lu-ye-3/tiao-yue-you-xi
+
+// solution 1: dp, O(N^2)
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
@@ -11,5 +13,21 @@ class Solution {
             }
         }
         return dp[0];
+    }
+}
+
+// Solution 2: greedy, O(N)
+class Solution {
+    public int jump(int[] nums) {
+        int n = nums.length;
+        int jumps = 0, end = 0, farthest = 0;
+        for (int i = 0; i < n - 1; i++) {
+            farthest = Math.max(farthest, nums[i] + i);
+            if (i == end) {
+                jumps++;
+                end = farthest;
+            }
+        }
+        return jumps;
     }
 }
