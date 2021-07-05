@@ -232,3 +232,4 @@ LeetCode solutions in C++, Java and Python3.
 |224|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](452.Minimum_Number_of_Arrows_to_Burst_Balloons/java_solution.java)||Medium|`Greedy`|
 |225|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Java](134.Gas_Station/java_solution.java)||Medium|`Greedy`|
 |226|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](045.Jump_Game_II/java_solution.java)||Medium|`Greedy`|
+|227|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](064.Minimum_Path_Sum/java_solution.java)||Medium|`DP`|
