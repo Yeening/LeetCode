@@ -236,3 +236,4 @@ LeetCode solutions in C++, Java and Python3.
 |228|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](174.Dungeon_Game/java_solution.java)||Hard|`DP`|
 |229|514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Java](514.Freedom_Trail/java_solution.java)||Hard|`DP`|
 |230|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](010.Regular_Expression_Matching/java_solution.java)||Hard|`DP`|
+|231|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Java](366.Find_Leaves_of_Binary_Tree/java_solution.java)||Medium|`Tree`|
