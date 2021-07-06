@@ -93,3 +93,44 @@ private int shortestDis(int i, int j, int N) {
 }
 
 // Solution 3: recursive solution with memo
+class Solution {
+    ArrayList<Integer>[] dict;
+    int[][] memo;
+    public int findRotateSteps(String ring, String key) {
+        int n = ring.length(), m = key.length();
+        memo = new int[m][n];
+        for (int i = 0 ; i < m; i++) {
+            Arrays.fill(memo[i], -1);
+        }
+        // save ring to dict
+        dict = new ArrayList[26];
+        for (int i = 0 ; i < 26; i++) {
+            dict[i] = new ArrayList<>();
+        }
+        for (int i = 0 ; i < ring.length(); i++) {
+            dict[ring.charAt(i) - 'a'].add(i);
+        }
+        return rotateSteps(key, ring,0, 0) + key.length();
+    }
+
+    private int rotateSteps(String key, String ring, int start, int curPos) {
+        if (start == key.length()) return 0;
+        if (memo[start][curPos] >= 0) return memo[start][curPos];
+        char c = key.charAt(start);
+        int res = Integer.MAX_VALUE;
+        for (int i: dict[c - 'a']) {
+            int subProblem = rotateSteps(key, ring, start + 1, i);
+            res = Math.min(res,
+                    shortestDis(i, curPos, ring.length()) + subProblem);
+        }
+        memo[start][curPos] = res;
+        return res;
+    }
+
+    private int shortestDis(int i, int j, int N) {
+        if (i > j) {
+            return shortestDis(j, i, N);
+        }
+        return Math.min(j - i, N - (j - i));
+    }
+}
