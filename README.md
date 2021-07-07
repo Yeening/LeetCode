@@ -238,3 +238,4 @@ LeetCode solutions in C++, Java and Python3.
 |230|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](010.Regular_Expression_Matching/java_solution.java)||Hard|`DP`|
 |231|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Java](366.Find_Leaves_of_Binary_Tree/java_solution.java)||Medium|`Tree`|
 |232|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Java](875.Koko_Eating_Bananas/java_solution.java)||Medium|`Binary Search`|
+|233|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Java](1011.Capacity_To_Ship_Packages_Within_D_Days/java_solution.java)||Medium|`Binary Search`|
