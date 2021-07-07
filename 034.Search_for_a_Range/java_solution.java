@@ -25,3 +25,43 @@ class Solution {
         }
     }
 }
+
+// Explaination: https://labuladong.gitbook.io/algo/mu-lu-ye/er-fen-cha-zhao-xiang-jie
+
+// Solution 2: iterative
+public int[] searchRange(int[] nums, int target) {
+    if (nums == null || nums.length == 0) return new int[]{-1, -1};
+    int left = 0, right = nums.length - 1;
+    int leftBound = -1, rightBound = -1;
+    while (left <= right) {
+        int mid = left + (right - left >> 1);
+        if (nums[mid] < target) {
+            left = mid + 1;
+        } else if (nums[mid] > target) {
+            right = mid - 1;
+        } else if (nums[mid] == target) {
+            right = mid - 1;
+        }
+    }
+    if (left >= nums.length || nums[left] != target) {
+        return new int[]{-1, -1};
+    }
+    leftBound = left;
+    left = leftBound;
+    right = nums.length - 1;
+    while (left <= right) {
+        int mid = left + (right - left >> 1);
+        if (nums[mid] < target) {
+            left = mid + 1;
+        } else if (nums[mid] > target) {
+            right = mid - 1;
+        } else if (nums[mid] == target) {
+            left = mid + 1;
+        }
+    }
+    if (right < 0 || nums[right] != target) {
+        return new int[]{-1, -1};
+    }
+    rightBound = right;
+    return new int[]{leftBound, rightBound};
+}
