@@ -240,3 +240,4 @@ LeetCode solutions in C++, Java and Python3.
 |232|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Java](875.Koko_Eating_Bananas/java_solution.java)||Medium|`Binary Search`|
 |233|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Java](1011.Capacity_To_Ship_Packages_Within_D_Days/java_solution.java)||Medium|`Binary Search`|
 |234|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](074.Search_a_2D_Matrix/java_solution.java)||Medium|`Binary Search`|
+|235|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](081.Search_in_Rotated_Sorted_Array_II/java_solution.java)||Medium|`Binary Search`|
