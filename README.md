@@ -242,3 +242,4 @@ LeetCode solutions in C++, Java and Python3.
 |234|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](074.Search_a_2D_Matrix/java_solution.java)||Medium|`Binary Search`|
 |235|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](081.Search_in_Rotated_Sorted_Array_II/java_solution.java)||Medium|`Binary Search`|
 |236|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](153.Find_Minimum_in_Rotated_Sorted_Array/java_solution.java)||Medium|`Binary Search`|
+|237|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](154.Find_Minimum_in_Rotate_Sorted_Array_II/java_solution.java)||Hard|`Binary Search`|
