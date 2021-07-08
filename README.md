@@ -243,3 +243,4 @@ LeetCode solutions in C++, Java and Python3.
 |235|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](081.Search_in_Rotated_Sorted_Array_II/java_solution.java)||Medium|`Binary Search`|
 |236|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](153.Find_Minimum_in_Rotated_Sorted_Array/java_solution.java)||Medium|`Binary Search`|
 |237|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](154.Find_Minimum_in_Rotate_Sorted_Array_II/java_solution.java)||Hard|`Binary Search`|
+|238|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Java](243.Shortest_Word_Distance/java_solution.java)||Easy|`Two Pointer`|
