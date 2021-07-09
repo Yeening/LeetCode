@@ -245,3 +245,4 @@ LeetCode solutions in C++, Java and Python3.
 |237|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](154.Find_Minimum_in_Rotate_Sorted_Array_II/java_solution.java)||Hard|`Binary Search`|
 |238|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Java](243.Shortest_Word_Distance/java_solution.java)||Easy|`Two Pointers`|
 |239|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|[Java](244.Shortest_Word_Distance_II/java_solution.java)||Medium|`Two Pointers`|
+|240|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](142.Linked_List_Cycle_II/java_solution.java)||Medium|`Two Pointers`|
