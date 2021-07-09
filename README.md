@@ -246,3 +246,4 @@ LeetCode solutions in C++, Java and Python3.
 |238|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Java](243.Shortest_Word_Distance/java_solution.java)||Easy|`Two Pointers`|
 |239|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|[Java](244.Shortest_Word_Distance_II/java_solution.java)||Medium|`Two Pointers`|
 |240|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](142.Linked_List_Cycle_II/java_solution.java)||Medium|`Two Pointers`|
+|241|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](167.Two_Sum_II/java_solution.java)||Easy|`Two Pointers`|
