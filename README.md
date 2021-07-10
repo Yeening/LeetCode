@@ -249,3 +249,4 @@ LeetCode solutions in C++, Java and Python3.
 |241|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](167.Two_Sum_II/java_solution.java)||Easy|`Two Pointers`|
 |242|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[Java](245.Shortest_Word_Distance_III/java_solution.java)||Medium|`Array`|
 |243|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](567.Permutation_in_String/java_solution.java)||Medium|`Sliding Window`|
+|244|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](438.Find_All_Anagrams_in_a_String/java_solution.java)||Medium|`Sliding Window`|
