@@ -62,3 +62,43 @@ class Solution {
         return s.substring(min_start, min_end);
     }
 }
+
+class Solution {
+    public String minWindow(String s, String t) {
+        int start = -1, len = s.length() + 1;
+        int left = 0, right = 0, valid = 0, needCount = 0;
+        int[] need = new int[200], window = new int[200];
+        for (char c: t.toCharArray()) {
+            if (need[c] == 0) needCount++;
+            need[c]++;
+        }
+        while (right < s.length()) {
+            char c = s.charAt(right);
+            right++;
+            if (need[c] > 0) {
+                window[c]++;
+                if (window[c] == need[c]) {
+                    valid++;
+                }
+            }
+
+            while (valid == needCount) {
+                if (right - left < len) {
+                    len = right - left;
+                    start = left;
+                }
+                c = s.charAt(left);
+                left++;
+                if (need[c] > 0) {
+                    if (window[c] == need[c]) {
+                        valid--;
+                    }
+                    window[c]--;
+                }
+            }
+        }
+
+        if (start == -1) return "";
+        return s.substring(start, start + len);
+    }
+}
