@@ -250,3 +250,5 @@ LeetCode solutions in C++, Java and Python3.
 |242|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[Java](245.Shortest_Word_Distance_III/java_solution.java)||Medium|`Array`|
 |243|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](567.Permutation_in_String/java_solution.java)||Medium|`Sliding Window`|
 |244|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](438.Find_All_Anagrams_in_a_String/java_solution.java)||Medium|`Sliding Window`|
+|245|159|[Longest Substring with At Most Two Distinct Characters
+](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Java](159.Longest_Substring_with_At_Most_Two_Distinct_Characters/java_solution.java)||Medium|`Sliding Window`|
