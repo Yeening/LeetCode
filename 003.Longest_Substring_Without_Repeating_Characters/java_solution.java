@@ -27,3 +27,24 @@ class Solution {
         return res;
     }
 }
+
+// Solution 2: sliding window
+// https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-3/hua-dong-chuang-kou-ji-qiao-jin-jie#yi-zui-xiao-fu-gai-zi-chuan
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        int left = 0, right = 0, len = 0;
+        int[] window = new int[128];
+        while (right < s.length()) {
+           char c = s.charAt(right);
+           right++;
+           window[c]++;
+           while (window[c] > 1) {
+               char d = s.charAt(left);
+               left++;
+               window[d]--;
+           }
+           len = Math.max(len, right - left);
+        }
+        return len;
+    }
+}
