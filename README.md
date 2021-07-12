@@ -251,3 +251,4 @@ LeetCode solutions in C++, Java and Python3.
 |243|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](567.Permutation_in_String/java_solution.java)||Medium|`Sliding Window`|
 |244|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](438.Find_All_Anagrams_in_a_String/java_solution.java)||Medium|`Sliding Window`|
 |245|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Java](159.Longest_Substring_with_At_Most_Two_Distinct_Characters/java_solution.java)||Medium|`Sliding Window`|
+|246|487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Java](487.Max_Consecutive_Ones_II/java_solution.java)||Medium|`Sliding Window`|
