@@ -255,3 +255,4 @@ LeetCode solutions in C++, Java and Python3.
 |247|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java](030.Substring_with_Concatenation_of_All_Words/java_solution.java)||Hard|`Sliding Window`|
 |248|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](205.Isomorphic_Strings/java_solution.java)||Easy|`String`|
 |249|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](044.Wildcard_Matching/java_solution.java)||Hard|`Dynamic Programming`|
+|250|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](122.Best_Time_to_Buy_and_Sell_Stock_II/java_solution.java)||Easy|`Dynamic Programming`|
