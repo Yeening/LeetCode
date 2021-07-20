@@ -168,7 +168,7 @@ LeetCode solutions in C++, Java and Python3.
 |160|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](118.Pascal's_Triangle/java_solution.java)||Easy|`Array`|
 |161|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](119.Pascal's_Triangle_II/java_solution.java)||Easy|`Array`|
 |162|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) 2|[Java](213.House_Robber_II/java_solution.java)||Medium|`Dynamic Programming`|
-|163|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](337.House_Robber_III/java_solution.java)||Medium|`DFS`|
+|163|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) 2|[Java](337.House_Robber_III/java_solution.java)||Medium|`DFS`|
 |164|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](073.Set_Matrix_Zeroes/java_solution.java)||Medium|`Array`|
 |165|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](334.Increasing_Triplet_Subsequence/java_solution.java)||Medium|`Array`|
 |166|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](163.Missing_Ranges/java_solution.java)||Medium|`Array`|
