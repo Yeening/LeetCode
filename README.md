@@ -260,3 +260,4 @@ LeetCode solutions in C++, Java and Python3.
 |252|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](188.Best_Time_to_Buy_and_Sell_Stock_IV/java_solution.java)||Hard|`Dynamic Programming`|
 |253|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/java_solution.java)||Medium|`Dynamic Programming`|
 |254|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](714.Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/java_solution.java)||Medium|`Dynamic Programming`|
+|255|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](111.Minimum_Depth_of_Binary_Tree/java_solution.java)||Easy|`BFS`|
