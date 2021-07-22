@@ -262,3 +262,4 @@ LeetCode solutions in C++, Java and Python3.
 |254|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](714.Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/java_solution.java)||Medium|`Dynamic Programming`|
 |255|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](111.Minimum_Depth_of_Binary_Tree/java_solution.java)||Easy|`BFS`|
 |256|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Java](752.Open_the_Lock/java_solution.java)||Medium|`BFS`|
+|257|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Java](126.Word_Ladder_II/java_solution.java)||Hard|`BFS`|
