@@ -263,3 +263,4 @@ LeetCode solutions in C++, Java and Python3.
 |255|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](111.Minimum_Depth_of_Binary_Tree/java_solution.java)||Easy|`BFS`|
 |256|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Java](752.Open_the_Lock/java_solution.java)||Medium|`BFS`|
 |257|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Java](126.Word_Ladder_II/java_solution.java)||Hard|`BFS`|
+|258|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](130.Surrounded_Regions/java_solution.java)||Medium|`DFS`|
