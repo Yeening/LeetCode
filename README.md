@@ -269,3 +269,4 @@ LeetCode solutions in C++, Java and Python3.
 |261|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Java](986.Interval_List_Intersections/java_solution.java)||Medium|`Two Pointers`|
 |262|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](698.Partition_to_K_Equal_Sum_Subsets/java_solution.java)||Medium|`Back Tracking`|
 |263|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](057.Insert_Interval/java_solution.java)||Medium|`Array`|
+|264|77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](077.Combinations/java_solution.java)||Medium|`Back Tracking`|
