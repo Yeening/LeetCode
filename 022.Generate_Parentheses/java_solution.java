@@ -21,3 +21,26 @@ class Solution {
         }
     }
 }
+
+// Solution 2
+// The only limitation is count of ( should >= ).
+public List<String> generateParenthesis(int n) {
+    List<String> res = new LinkedList<>();
+    backTrack(n, n, "", res);
+    return res;
+}
+
+private void backTrack(int left, int right, String cur, List<String> res) {
+    if (left == 0 && right == 0) {
+        res.add(cur);
+        return;
+    }
+    if (left == right) {
+        backTrack(left - 1, right, cur+"(", res);
+    } else if (left < right) {
+        if (left > 0) {
+            backTrack(left - 1, right, cur + "(", res);
+        }
+        backTrack(left, right - 1, cur + ")", res);
+    }
+}
