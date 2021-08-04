@@ -1,3 +1,4 @@
+// https://labuladong.gitbook.io/algo/mu-lu-ye-3/mu-lu-ye-2/jie-cheng-ti-mu
 class Solution {
     public int preimageSizeFZF(int k) {
         long left = 0, right = Long.MAX_VALUE;
