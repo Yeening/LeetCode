@@ -1,12 +1,11 @@
+// explanation: https://labuladong.gitbook.io/algo/mu-lu-ye-3/mu-lu-ye-2/jie-cheng-ti-mu
 class Solution {
     public int trailingZeroes(int n) {
-        int res = 0;
-        while(n > 0){
-            int tmp = n /= 5;
-            res += tmp;
-            n = tmp;
-            
+        int zeros = 0, divisor = 5;
+        while (n >= divisor) {
+            zeros += (n / divisor);
+            divisor *= 5;
         }
-        return res;
+        return zeros;
     }
 }
