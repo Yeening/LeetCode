@@ -273,3 +273,4 @@ LeetCode solutions in C++, Java and Python3.
 |265|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Java](773.Sliding_Puzzle/java_solution.java)||Hard|`BFS`|
 |266|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](231.Power_of_Two/java_solution.java)||Easy|`Bit Manipulation`|
 |267|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Java](793.Preimage_Size_of_Factorial_Zeroes_Function/java_solution.java)||Hard|`Binary Search` `Math`|
+|268|372|[Super Pow](https://leetcode.com/problems/super-pow/)|[Java](372.Super_Pow/java_solution.java)||Medium|`Math`|
