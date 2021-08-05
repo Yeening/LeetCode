@@ -1,3 +1,27 @@
+// https://labuladong.gitbook.io/algo/mu-lu-ye-3/mu-lu-ye-2/da-yin-su-shu
+class Solution {
+    public int countPrimes(int n) {
+        if (n <= 2) return 0;
+        boolean[] isPrime = new boolean[n];
+        Arrays.fill(isPrime, true);
+        isPrime[0] = false;
+        isPrime[1] = false;
+        isPrime[2] = true;
+        for (int i = 2; i * i < n; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    isPrime[j]  = false;
+                }
+            }
+        }
+        int primeCount = 0;
+        for (boolean prime: isPrime) {
+            if (prime) primeCount++;
+        }
+        return primeCount;
+    }
+}
+
 // Solution 1: 22ms, 47%
 class Solution {
     public int countPrimes(int n) {
