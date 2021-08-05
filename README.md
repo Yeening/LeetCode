@@ -160,7 +160,7 @@ LeetCode solutions in C++, Java and Python3.
 |152|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](198.House_Robber/java_solution.java)||Easy|`DP`|
 |153|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](384.Shuffle_an_Array/java_solution.java)||Medium|`Design`|
 |154|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](412.Fizz_Buzz/java_solution.java)||Easy|`Math`|
-|155|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](204.Count_Primes/java_solution.java)||Easy|`Math`|
+|155|204|[Count Primes](https://leetcode.com/problems/count-primes/) 2|[Java](204.Count_Primes/java_solution.java)||Easy|`Math`|
 |156|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](326.Power_of_Three/java_solution.java)||Easy|`Math`|
 |157|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](191.Number_of_1_Bits/java_solution.java)||Easy|`Bit`|
 |158|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](461.Hamming_Distance/java_solution.java)||Easy|`Bit`|
