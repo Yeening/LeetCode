@@ -275,3 +275,4 @@ LeetCode solutions in C++, Java and Python3.
 |267|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Java](793.Preimage_Size_of_Factorial_Zeroes_Function/java_solution.java)||Hard|`Binary Search` `Math`|
 |268|372|[Super Pow](https://leetcode.com/problems/super-pow/)|[Java](372.Super_Pow/java_solution.java)||Medium|`Math`|
 |269|659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Java](659.Split_Array_into_Consecutive_Subsequences/java_solution.java)||Medium|`Hash Table`|
+|270|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Java](990.Satisfiability_of_Equality_Equations/java_solution.java)||Medium|`Union Find`|
