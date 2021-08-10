@@ -141,7 +141,7 @@ LeetCode solutions in C++, Java and Python3.
 |133|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](017.Letter_Combinations_of_a_Phone_Number/java_solution.java)||Medium|`Back Tracking`|
 |134|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 2|[Java](348.Design_Tic-Tac-Toe/java_solution.java)||Medium|`Design`|
 |135|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](155.Min_Stack/java_solution.java)||Easy|`Design`|
-|136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
+|136|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) 2|[Java](895.Maximum_Frequency_Stack/java_solution.java/java_solution.java)||Hard|`Design`|
 |137|763|[Partition Labels](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](763.Partition_Labels/java_solution.java/java_solution.java)||Medium|`Two pointers`|
 |138|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](957.Prison_Cells_After_N_Days/java_solution.java/java_solution.java)||Medium|`Hash Table`|
 |139|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](349.Intersection_of_Two_Arrays/java_solution.java/java_solution.java)||Easy|`Hash Table`|
