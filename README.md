@@ -278,3 +278,4 @@ LeetCode solutions in C++, Java and Python3.
 |270|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Java](990.Satisfiability_of_Equality_Equations/java_solution.java)||Medium|`Union Find`|
 |271|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](128.Longest_Consecutive_Sequence/java_solution.java)||Medium|`Union Find`|
 |272|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Java](460.LFU_Cache/java_solution.java)||Hard|`Design`|
+|273|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Java](355.Design_Twitter/java_solution.java)||Medium|`Design`|
