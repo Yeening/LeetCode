@@ -280,3 +280,4 @@ LeetCode solutions in C++, Java and Python3.
 |272|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Java](460.LFU_Cache/java_solution.java)||Hard|`Design`|
 |273|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Java](355.Design_Twitter/java_solution.java)||Medium|`Design`|
 |274|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](496.Next_Greater_Element_I/java_solution.java)||Easy|`Monotonic Stack`|
+|275|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](503.Next_Greater_Element_II/java_solution.java)||Medium|`Monotonic Stack`|
