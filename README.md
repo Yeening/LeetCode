@@ -279,3 +279,4 @@ LeetCode solutions in C++, Java and Python3.
 |271|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](128.Longest_Consecutive_Sequence/java_solution.java)||Medium|`Union Find`|
 |272|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Java](460.LFU_Cache/java_solution.java)||Hard|`Design`|
 |273|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Java](355.Design_Twitter/java_solution.java)||Medium|`Design`|
+|274|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](496.Next_Greater_Element_I/java_solution.java)||Easy|`Monotonic Stack`|
