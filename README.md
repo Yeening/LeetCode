@@ -282,3 +282,4 @@ LeetCode solutions in C++, Java and Python3.
 |274|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](496.Next_Greater_Element_I/java_solution.java)||Easy|`Monotonic Stack`|
 |275|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](503.Next_Greater_Element_II/java_solution.java)||Medium|`Monotonic Stack`|
 |276|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](739.Daily_Temperatures/java_solution.java)||Medium|`Monotonic Stack`|
+|277|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](870.Advantage_Shuffle/java_solution.java)||Medium|`Greedy`|
