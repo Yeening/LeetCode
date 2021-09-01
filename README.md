@@ -283,3 +283,4 @@ LeetCode solutions in C++, Java and Python3.
 |275|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](503.Next_Greater_Element_II/java_solution.java)||Medium|`Monotonic Stack`|
 |276|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](739.Daily_Temperatures/java_solution.java)||Medium|`Monotonic Stack`|
 |277|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](870.Advantage_Shuffle/java_solution.java)||Medium|`Greedy`|
+|278|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](211.Design_Add_and_Search_Words_Data_Structure/java_solution.java)||Medium|`Trie`|
