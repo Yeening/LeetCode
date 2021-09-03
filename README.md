@@ -284,3 +284,4 @@ LeetCode solutions in C++, Java and Python3.
 |276|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](739.Daily_Temperatures/java_solution.java)||Medium|`Monotonic Stack`|
 |277|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](870.Advantage_Shuffle/java_solution.java)||Medium|`Greedy`|
 |278|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](211.Design_Add_and_Search_Words_Data_Structure/java_solution.java)||Medium|`Trie`|
+|279|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](091.Decode_Ways/java_solution.java)||Medium|`Dynamic Programming`|
