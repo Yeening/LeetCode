@@ -1,3 +1,5 @@
+// first solution: BFS
+
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int[] order = new int[numCourses];
@@ -32,3 +34,49 @@ class Solution {
     }
 }
 
+// second solution: DFS, post-order traverse
+class Solution {
+    int[] order;
+    int orderIndex;
+    boolean[] visited;
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        order = new int[numCourses];
+        orderIndex = 0;
+        List<Integer>[] parents = new List[numCourses];
+        for (int i = 0; i < numCourses; i++) {
+            parents[i] = new ArrayList<>(numCourses);
+        }
+        for (int[] pair: prerequisites) {
+            parents[pair[0]].add(pair[1]);
+        }
+        visited = new boolean[numCourses];
+        
+        for (int i = 0; i < numCourses; i++) {
+            if (orderIndex == numCourses) break;
+            if (!DFS(parents, i, new boolean[numCourses])) {
+                // exist cycle
+                return new int[]{};
+            }
+        }
+        
+        return order;
+    }
+    
+    private boolean DFS(List<Integer>[] parents, int root, 
+                        boolean[] inPath) {
+        if (inPath[root]) return false;
+        if (visited[root]) return true;
+        inPath[root] = true;
+        visited[root] = true;
+        
+        for (int parent: parents[root]) {
+            if (!DFS(parents, parent, inPath)) {
+                return false;
+            }
+        }
+        
+        inPath[root] = false;
+        order[orderIndex++] = root;
+        return true;
+    }
+}
