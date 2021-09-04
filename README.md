@@ -286,4 +286,5 @@ LeetCode solutions in C++, Java and Python3.
 |278|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](211.Design_Add_and_Search_Words_Data_Structure/java_solution.java)||Medium|`Trie`|
 |279|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](091.Decode_Ways/java_solution.java)||Medium|`Dynamic Programming`|
 |280|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](287.Find_the_Duplicate_Number/java_solution.java)||Medium|`Two Pointers`|
-|281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
+|281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
+|282|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](1262.Greatest_Sum_Divisible_by_Three/java_solution.java)||Medium|`DP`|
