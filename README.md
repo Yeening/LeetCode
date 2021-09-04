@@ -285,3 +285,4 @@ LeetCode solutions in C++, Java and Python3.
 |277|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](870.Advantage_Shuffle/java_solution.java)||Medium|`Greedy`|
 |278|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](211.Design_Add_and_Search_Words_Data_Structure/java_solution.java)||Medium|`Trie`|
 |279|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](091.Decode_Ways/java_solution.java)||Medium|`Dynamic Programming`|
+|280|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](287.Find_the_Duplicate_Number/java_solution.java)||Medium|`Two Pointers`|
