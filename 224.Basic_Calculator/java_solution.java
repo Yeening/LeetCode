@@ -123,3 +123,51 @@ class Solution {
         return sum;
     }
 }
+
+
+// Solution 3:
+
+class Solution {
+    public int calculate(String s) {
+        Stack<String> stack = new Stack<>();
+        Integer temp = null;
+        s = "(" + s + ")";
+        for (int i = 0; i < s.length(); i++) {
+            char cur = s.charAt(i);
+            if (Character.isDigit(cur)) {
+                temp = temp == null? 0: temp;
+                temp = temp * 10 + (cur - '0');
+            } else {
+                if (temp != null) {
+                    stack.push(String.valueOf(temp));
+                    temp = null;
+                }
+            }
+
+            if (cur == '-' || cur == '(') {
+                stack.push(String.valueOf(cur));
+            } else if (cur == ')') {
+                stack.push(String.valueOf(getValueInsidePar(stack)));
+            }
+        }
+        return Integer.parseInt(stack.pop());
+    }
+    
+    private int getValueInsidePar(Stack<String> stack) {
+        int val = 0, lastVal = 0;
+        while (!stack.isEmpty()) {
+            String temp = stack.pop();
+            if (temp.equals("(")) {
+                return val + lastVal;
+            } else if (temp.equals("-")) {
+                val += -lastVal;
+                lastVal = 0;
+            } else {
+                // temp is number
+                val += lastVal;
+                lastVal = Integer.valueOf(temp);
+            }
+        }
+        return val;
+    }
+}
