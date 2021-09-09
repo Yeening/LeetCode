@@ -288,3 +288,4 @@ LeetCode solutions in C++, Java and Python3.
 |280|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](287.Find_the_Duplicate_Number/java_solution.java)||Medium|`Two Pointers`|
 |281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
 |282|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](1262.Greatest_Sum_Divisible_by_Three/java_solution.java)||Medium|`DP`|
+|283|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](560.Subarray_Sum_Equals_K/java_solution.java)||Medium|`Prefix sum`|
