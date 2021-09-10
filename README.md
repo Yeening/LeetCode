@@ -289,3 +289,4 @@ LeetCode solutions in C++, Java and Python3.
 |281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
 |282|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](1262.Greatest_Sum_Divisible_by_Three/java_solution.java)||Medium|`DP`|
 |283|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](560.Subarray_Sum_Equals_K/java_solution.java)||Medium|`Prefix sum`|
+|284|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Java](1509.Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves/java_solution.java)||Medium|`Array`|
