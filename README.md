@@ -127,7 +127,7 @@ LeetCode solutions in C++, Java and Python3.
 |119|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 2|[Java](011.Container_With_Most_Water/java_solution.java) |[Note](011.Container_With_Most_Water/note.md)|Medium|`Two Pointers`|
 |120|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) 3|[Java](016.3Sum_Closest/java_solution.java) ||Medium|`Two Pointers`|
 |121|28|[Implemant strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](028.Implement_strStr()/java_solution.java) ||Easy|`Two Pointers`|
-|122|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](048.Rotate_Image/java_solution.java) ||Medium|`Array`|
+|122|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](048.Rotate_Image/java_solution.java) 2||Medium|`Array`|
 |123|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](165.Compare_Version_Numbers/java_solution.java) ||Medium|`String`|
 |124|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](268.Missing_Numbers/java_solution.java) ||Easy|`Math`|
 |125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
