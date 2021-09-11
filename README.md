@@ -291,3 +291,4 @@ LeetCode solutions in C++, Java and Python3.
 |283|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](560.Subarray_Sum_Equals_K/java_solution.java)||Medium|`Prefix sum`|
 |284|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Java](1509.Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves/java_solution.java)||Medium|`Array`|
 |285|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](1877.Minimize_Maximum_Pair_Sum_in_Array/java_solution.java)||Medium|`Greedy`|
+|286|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](1049.Last_Stone_Weight_II/java_solution.java)||Medium|`Dynamic Programming`|
