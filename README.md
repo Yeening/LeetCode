@@ -290,3 +290,4 @@ LeetCode solutions in C++, Java and Python3.
 |282|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](1262.Greatest_Sum_Divisible_by_Three/java_solution.java)||Medium|`DP`|
 |283|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](560.Subarray_Sum_Equals_K/java_solution.java)||Medium|`Prefix sum`|
 |284|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Java](1509.Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves/java_solution.java)||Medium|`Array`|
+|285|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](1877.Minimize_Maximum_Pair_Sum_in_Array/java_solution.java)||Medium|`Greedy`|
