@@ -292,3 +292,4 @@ LeetCode solutions in C++, Java and Python3.
 |284|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Java](1509.Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves/java_solution.java)||Medium|`Array`|
 |285|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](1877.Minimize_Maximum_Pair_Sum_in_Array/java_solution.java)||Medium|`Greedy`|
 |286|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](1049.Last_Stone_Weight_II/java_solution.java)||Medium|`Dynamic Programming`|
+|287|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Java](068.Text_Justification/java_solution.java)||Hard|`Simulation`|
