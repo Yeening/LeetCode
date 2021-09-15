@@ -1,3 +1,4 @@
+// https://labuladong.gitbook.io/algo/mu-lu-ye-4/jie-yu-shui
 class Solution {
     public int trap(int[] height) {
         int leftMax = 0, rightMax = 0;
