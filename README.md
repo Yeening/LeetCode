@@ -117,7 +117,7 @@ LeetCode solutions in C++, Java and Python3.
 |109|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](994.Rotting_Oranges/java_solution.java) ||Easy|`BFS`|
 |110|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](981.Time_Based_Key-Value_Store/java_solution.java) |[Note](981.Time_Based_Key-Value_Store/note.md)|Medium|`Hash Table`|
 |111|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](692.Top_K_Frequent_Words/java_solution.java) ||Medium|`Heap`|
-|112|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) 2|[Java](380.Insert_Delete_GetRandom_O(1)/java_solution.java) |[Note](380.Insert_Delete_GetRandom_O(1)/note.md)|Medium|`Hash Table` `Design`|
+|112|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) 3|[Java](380.Insert_Delete_GetRandom_O(1)/java_solution.java) |[Note](380.Insert_Delete_GetRandom_O(1)/note.md)|Medium|`Hash Table` `Design`|
 |113|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](953.Verifying_an_Alien_Dictionary/java_solution.java) ||Easy|`Hash Table`|
 |114|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](269.Alien_Dictionary/java_solution.java) ||Hard|`Topological Sort`|
 |115|79|[Word Search](https://leetcode.com/problems/word-search/) 2|[Java](079.Word_Search/java_solution.java) ||Medium|`Backtracking`|
