@@ -294,3 +294,4 @@ LeetCode solutions in C++, Java and Python3.
 |286|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](1049.Last_Stone_Weight_II/java_solution.java)||Medium|`Dynamic Programming`|
 |287|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Java](068.Text_Justification/java_solution.java)||Hard|`Simulation`|
 |288|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Java](359.Logger_Rate_Limiter/java_solution.java)||Easy|`Hash Map`|
+|289|833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[Java](833.Find_And_Replace_in_String/java_solution.java)||Medium|`Hash Map` `String`|
