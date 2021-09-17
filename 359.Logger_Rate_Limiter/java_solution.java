@@ -4,7 +4,8 @@ class Logger{
 	private int INTERVAL = 10;
 	
 	public Logger(){
-		logLastPrint = new HashMap<>();
+		logLastPrint = new HashMap<>()
+	};
   }
   public boolean shouldPrint(String msg, int time) {
     boolean print = time - logLastPrint.getOrDefault(msg, -INTERVAL) >= INTERVAL;
