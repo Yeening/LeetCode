@@ -55,3 +55,67 @@ class Solution {
     }
 
 }
+
+
+// Solution 3: optimized hascode to avoid has conflicting
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+// time: O(Nodes)
+// space: O(Nodes)
+class Solution {
+    private Map<Integer, Integer> occurs; // {“null,4,null,”: 3, “null,4,null,2,null,”: 2, “null,4,null,2,null,3,null,4,null,”: 1, “null,4,null,2,null,1,null,4,null,2,null,3,null,4,null,”: 1}
+    private List<TreeNode> duplicates; // [4, 2]
+    private String SP = ",";
+    private Map<Integer, String> idToKey;
+
+
+    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
+        occurs = new HashMap<>();
+        duplicates = new ArrayList<>();
+        idToKey = new HashMap<>();
+        visit(root);
+        return duplicates;
+    }
+
+    private int visit(TreeNode root) {
+        String key;
+        if (root == null){ 
+            key = ("#" + SP);
+        } else {
+            StringBuilder sb = new StringBuilder();
+            sb.append(visit(root.left));
+            sb.append(root.val);
+            sb.append(SP);
+            sb.append(visit(root.right));
+            sb.append(SP);
+            key = sb.toString();
+        }
+        int id = key.hashCode();
+        while(idToKey.containsKey(id)&&!idToKey.get(id).equals(key)){
+            id++;
+        }
+        idToKey.put(id, key);
+        if (root == null) return id;
+        if (occurs.containsKey(id) && occurs.get(id) == 1){
+            duplicates.add(root);
+        }
+        occurs.put(id, occurs.getOrDefault(id, 0) + 1);
+        return id;
+
+    }
+
+}
