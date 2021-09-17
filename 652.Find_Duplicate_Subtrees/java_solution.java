@@ -23,6 +23,70 @@ class Solution {
     }
 }
 
+// Optimized solution: using id to replace full serializing, O(N)
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+// time: O(Nodes)
+// space: O(Nodes)
+class Solution {
+    private Map<Integer, Integer> occurs; // {0: 1, }
+    private List<TreeNode> duplicates; // []
+    private String SP = ",";
+    private Map<String, Integer> keyToId; //{"-1,-1,4": 0}
+    private int curId = 0;
+
+
+    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
+        occurs = new HashMap<>();
+        duplicates = new ArrayList<>();
+        keyToId = new HashMap<>();
+        visit(root);
+        return duplicates;
+    }
+
+    private int visit(TreeNode root) {
+        String key;
+        int id;
+        if (root == null){ 
+            return -1;
+        } else {
+            StringBuilder sb = new StringBuilder(); // key: "-1,-1,4"
+            sb.append(visit(root.left));
+            sb.append(SP);
+            sb.append(visit(root.right));
+            sb.append(SP);
+            sb.append(root.val);
+            key = sb.toString();
+        }
+        if (keyToId.containsKey(key)) {
+            id = keyToId.get(key);
+        } else {
+            id = curId++; // id: 0
+            keyToId.put(key, id);
+        }
+        if (occurs.containsKey(id) && occurs.get(id) == 1){
+            duplicates.add(root);
+        }
+        occurs.put(id, occurs.getOrDefault(id, 0) + 1);
+        return id;
+    }
+
+}
+
 // Solution 2: using hashcode
 // time: O(Nodes)
 // space: O(Nodes)
