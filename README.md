@@ -299,3 +299,5 @@ LeetCode solutions in C++, Java and Python3.
 |291|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Java](317.Shortest_Distance_from_All_Buildings/java_solution.java)||Hard|`BFS`|
 |292|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](1277.Count_Square_Submatrices_with_All_Ones/java_solution.java)||Medium|`Dynamic Programming`|
 |293|498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Java](498.Diagonal_Traverse/java_solution.java)||Medium|`Simulation`|
+|294|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[Java](1424.Diagonal_Traverse_II/java_solution.java)||Medium|`Sorting`|
+
