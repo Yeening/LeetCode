@@ -35,7 +35,7 @@ LeetCode solutions in C++, Java and Python3.
 |27|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](182.Duplicate_Emails/sql_solution.sql)|[Note](182.Duplicate_Emails/note.md)|Easy|`SQL`|
 |28|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](238.Product_of_Array_Except_Self/java_solution.java)|[Note](238.Product_of_Array_Except_Self/note.md)|Medium|`Array`|
 |29|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](237.Delete_Node_in_a_Linked_List/java_solution.java)||Easy|`Linked List`|
-|30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
+|30|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) 2|[Java](283.Move_Zeroes/java_solution.java)||Easy|`Two pointers`|
 |31|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](258.Add_Digits/java_solution.java)|[Note](258.Add_Digits/note.md)|Easy|`Math`|
 |32|202|[Happy Number](https://leetcode.com/problems/happy-number/) 2|[Java](202.Happy_Number/java_solution.java)|[Note](202.Happy_Number/note.md)|Easy|`Math` `Hash Table`|
 |33|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](264.Ugly_Number_II/java_solution.java)|[Note](264.Ugly_Number_II/note.md)|Medium|`Math` `Heap`|
