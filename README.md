@@ -301,3 +301,4 @@ LeetCode solutions in C++, Java and Python3.
 |293|498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Java](498.Diagonal_Traverse/java_solution.java)||Medium|`Simulation`|
 |294|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[Java](1424.Diagonal_Traverse_II/java_solution.java)||Medium|`Sorting`|
 |295|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[Java](360.Sort_Transformed_Array/java_solution.java)||Medium|`Sorting`|
+|296|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java](743.Network_Delay_Time/java_solution.java)||Medium|`BFS``Dijkstra`|
