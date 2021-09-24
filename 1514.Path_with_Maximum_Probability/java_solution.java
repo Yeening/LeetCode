@@ -1,11 +1,8 @@
 class Solution {
     public double maxProbability(int n, int[][] edges, double[] succProb, int start, int end) {
-        // float[][] arriveProb = new float[n][n];
         Map<Integer, Double>[] adjMaps = new Map[n];
         for (int i = 0; i < edges.length; i++) {
             int pointA = edges[i][0], pointB = edges[i][1];
-            // arriveProb[pointA][pointB] = (float)succProb[i];
-            // arriveProb[pointB][pointA] = (float)succProb[i];
             if (adjMaps[pointA] == null) 
                 adjMaps[pointA] = new HashMap<>();
             if (adjMaps[pointB] == null) 
@@ -29,10 +26,6 @@ class Solution {
             if (curProb < fromStartProb[curPoint] || 
                curProb == 0 || adjMaps[curPoint] == null) continue;
             for (int next: adjMaps[curPoint].keySet()) {
-                // if (arriveProb[curPoint][next] * curProb > fromStartProb[next]) {
-                //     fromStartProb[next] = arriveProb[curPoint][next] * curProb;
-                //     pq.offer(new float[]{fromStartProb[next], next});
-                // }
                 if (adjMaps[curPoint].get(next) * curProb > fromStartProb[next]) {
                     fromStartProb[next] = adjMaps[curPoint].get(next) * curProb;
                     pq.offer(new double[]{fromStartProb[next], next});
