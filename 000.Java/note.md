@@ -1,4 +1,5 @@
 # Note of Java
+
 ## Different Type of Size
 ```Java
 // Array
@@ -84,6 +85,9 @@ System.arraycopy(arr1, 0, arr2, 0, 1);
 
 ## Arrays.copyOfRange(arr, i, i+k)
 * Arrays.copyOfRange(arr, i, i+k), return a copied array
+
+## Arrays.copyOf(arr, i)
+* Arrays.copyOfRange(arr, i), return a copied array from 0 to i [0,i)
 
 ## Array of List
 ```
