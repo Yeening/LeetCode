@@ -48,3 +48,80 @@ class Solution {
         a[j] = temp;
     }
 }
+
+
+// Solution 2: a little optimized code
+
+class Solution {
+    // state: [1,2,3,4,0,5], blank: 4; points
+    // choices: [[1,3], [0,2,4], [1,5], [0,4], [1,3,5], [2,4]]; edges
+    /*
+    start state -> solved min moves
+    BFS
+    queue.offer(initial_state)
+    visited.add(initial_state)
+    
+    for each state:
+        if state == solved:
+            return moves
+        for each next_move:
+            if (!visited(next_move)):
+                queue.offer(next_move)
+                
+    */
+    
+    private final int[][] choice = new int[][]{
+        {1, 3}, {0, 2, 4}, {1, 5}, {0, 4}, {1, 3, 5}, {2, 4}
+    };
+    public int slidingPuzzle(int[][] board) {
+        final String SOLVED = Arrays.toString(new int[]{1,2,3,4,5,0});
+        int[] initialState = new int[6];
+        System.arraycopy(board[0], 0, initialState, 0, 3);
+        System.arraycopy(board[1], 0, initialState, 3, 3);
+        Queue<int[]> queue = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+        int step = 0;
+        
+        queue.offer(initialState);
+        visited.add(Arrays.toString(initialState));
+        
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                int[] curState = queue.poll();
+                String curKey = Arrays.toString(curState);
+                if (curKey.equals(SOLVED)) {return step;}
+                for (int[] nextState: neighbor(curState, visited)) {
+                    queue.offer(nextState);
+                }
+            }
+            step++;
+        }
+        
+        return -1;
+    }
+    
+    private List<int[]> neighbor(int[] curState, 
+                                 Set<String> visited) {
+        int empty = 0;
+        List<int[]> res = new ArrayList<>(3);
+        while(empty < 6) {
+            if (curState[empty] == 0) break;
+            empty++;
+        }
+        
+        for (int adjacent: choice[empty]) {
+            curState[empty] = curState[adjacent];
+            curState[adjacent] = 0;
+            String nextKey = Arrays.toString(curState);
+            if (!visited.contains(nextKey)) {
+                visited.add(nextKey);
+                res.add(Arrays.copyOf(curState, 6));
+            }
+            curState[adjacent] = curState[empty];
+            curState[empty] = 0;
+        }
+        
+        return res;
+    }
+}
