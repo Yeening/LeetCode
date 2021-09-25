@@ -42,3 +42,74 @@ class Solution {
     }
 
 }
+
+// space-compressed dp, time: O(MN), space: O(N)
+class Solution {
+    /*
+    M: num of rows, N: num of cols
+    BF: time O(M^2N^2) space: O(1)
+    
+    DP: 
+    squares[i][j]: count of squares using (i, j) as the bottom right corner
+    for (i,j: matrix):
+        squares[i][j] = min(squares[i-1][j], squares[i-1][j-1], sqaures[i][j-1]) + 1
+    
+    return sum(squares)
+    
+    DP:
+    squares[j]: count of squares using (i, j) as the bottom right corner
+    leftSquares = 0
+    for (i,j: matrix):
+        nextLeftSquares = min(squares[j], squares[j-1],                       leftSquares)
+        if j > 0:
+            square[j-1] = leftSquares
+        leftSquares = nextLeftSquares
+    square[N-1] = leftSquares
+    
+    
+    [
+    [1,0,1], 
+    [1,1,0], i
+     j
+    [1,1,0]
+    ]
+    
+    squares: 
+    [0,0,1,1]
+    
+    countSquares: 3
+    */
+    public int countSquares(int[][] matrix) {
+        int M = matrix.length, N = matrix[0].length;
+        // squares[0,N-1]: square count to row number
+        // sqaures[N]: square count of the left position to cur
+        int[] squares = new int[N];
+        int countSquares = 0, prevCount = 0;
+        
+        for (int i = 0; i < M; i++) {
+            for (int j = 0; j < N; j++) {
+                if (matrix[i][j] == 1) {
+                    if (j > 0) {
+                        int leftUpperSquares = Math.min(squares[j], 
+                                                    squares[j-1]);
+                        leftUpperSquares = Math.min(leftUpperSquares, 
+                                                    prevCount);
+                        squares[j - 1] = prevCount;
+                        prevCount = 1 + leftUpperSquares;
+                    } else {
+                        prevCount = 1;
+                    }
+                    countSquares += prevCount;
+                } else {
+                    if (j > 0) {
+                        squares[j - 1] = prevCount;
+                    }
+                    prevCount = 0;
+                }
+            }
+            squares[N-1] = prevCount;
+        }
+        
+        return countSquares;
+    }
+}
