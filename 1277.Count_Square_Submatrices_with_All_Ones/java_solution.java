@@ -66,48 +66,31 @@ class Solution {
         leftSquares = nextLeftSquares
     square[N-1] = leftSquares
     
-    
-    [
-    [1,0,1], 
-    [1,1,0], i
-     j
-    [1,1,0]
-    ]
-    
-    squares: 
-    [0,0,1,1]
-    
     countSquares: 3
     */
     public int countSquares(int[][] matrix) {
         int M = matrix.length, N = matrix[0].length;
-        // squares[0,N-1]: square count to row number
-        // sqaures[N]: square count of the left position to cur
         int[] squares = new int[N];
-        int countSquares = 0, prevCount = 0;
+        int countSquares = 0;
         
         for (int i = 0; i < M; i++) {
+            int prev = 0;
             for (int j = 0; j < N; j++) {
+                int temp = squares[j]; // squares[i-1][j]
                 if (matrix[i][j] == 1) {
-                    if (j > 0) {
-                        int leftUpperSquares = Math.min(squares[j], 
-                                                    squares[j-1]);
-                        leftUpperSquares = Math.min(leftUpperSquares, 
-                                                    prevCount);
-                        squares[j - 1] = prevCount;
-                        prevCount = 1 + leftUpperSquares;
+                    if (j == 0) {
+                        squares[j] = 1;
                     } else {
-                        prevCount = 1;
+                        squares[j] = Math.min(
+                            Math.min(squares[j], prev), 
+                                squares[j-1]) + 1;
                     }
-                    countSquares += prevCount;
                 } else {
-                    if (j > 0) {
-                        squares[j - 1] = prevCount;
-                    }
-                    prevCount = 0;
+                    squares[j] = 0;
                 }
+                prev = temp;
+                countSquares += squares[j];
             }
-            squares[N-1] = prevCount;
         }
         
         return countSquares;
