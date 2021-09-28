@@ -1,3 +1,29 @@
+// solution: In-place and O(N)
+class Solution {
+    // [7,6,5,4,3,2,1]
+    // [4,5,6,7,1,2,3]
+    
+    // [1,2,3,4,4]
+    //          l r
+    //  5
+    public void rotate(int[] nums, int k) {
+        k %= nums.length;
+        reverse(nums, 0, nums.length - 1);
+        reverse(nums, 0, k - 1);
+        reverse(nums, k, nums.length - 1);
+    }
+    
+    private void reverse(int[] nums, int l, int r) {
+        while(l < r) {
+            int temp = nums[l];
+            nums[l] = nums[r];
+            nums[r] = temp;
+            l++;
+            r--;
+        }
+    }
+}
+
 // solution 1: using system api
 class Solution {
     // [5,6,7,1,2,3,1/4] n: 7, k = 3
