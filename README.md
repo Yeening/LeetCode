@@ -306,3 +306,4 @@ LeetCode solutions in C++, Java and Python3.
 |298|2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Java](2013.Detect_Squares/java_solution.java)||Medium|`Design` `Counting`|
 |299|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java](097.Interleaving_String/java_solution.java)||Medium|`Dynamic Programming`|
 |300|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](189.Rotate_Array/java_solution.java)||Medium|`Math`|
+|301|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](905.Sort_Array_By_Parity/java_solution.java)||Easy|`Sorting`|
