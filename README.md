@@ -307,3 +307,4 @@ LeetCode solutions in C++, Java and Python3.
 |299|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java](097.Interleaving_String/java_solution.java)||Medium|`Dynamic Programming`|
 |300|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](189.Rotate_Array/java_solution.java)||Medium|`Math`|
 |301|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](905.Sort_Array_By_Parity/java_solution.java)||Easy|`Sorting`|
+|302|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](921.Minimum_Add_to_Make_Parentheses_Valid/java_solution.java)||Medium|`Stack`|
