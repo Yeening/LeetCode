@@ -228,7 +228,7 @@ LeetCode solutions in C++, Java and Python3.
 |220|712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](712.Minimum_ASCII_Delete_Sum_for_Two_Strings/java_solution.java)||Medium|`DP`|
 |221|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](072.Edit_Distance/java_solution.java)||Hard|`DP`|
 |222|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](416.Partition_Equal_Subset_Sum/java_solution.java)||Medium|`DP`|
-|223|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](435.Non-overlapping_Intervals/java_solution.java)||Medium|`Greedy`|
+|223|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) 2|[Java](435.Non-overlapping_Intervals/java_solution.java)||Medium|`Greedy`|
 |224|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](452.Minimum_Number_of_Arrows_to_Burst_Balloons/java_solution.java)||Medium|`Greedy`|
 |225|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Java](134.Gas_Station/java_solution.java)||Medium|`Greedy`|
 |226|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](045.Jump_Game_II/java_solution.java)||Medium|`Greedy`|
