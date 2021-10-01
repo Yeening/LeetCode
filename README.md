@@ -309,3 +309,4 @@ LeetCode solutions in C++, Java and Python3.
 |301|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](905.Sort_Array_By_Parity/java_solution.java)||Easy|`Sorting`|
 |302|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](921.Minimum_Add_to_Make_Parentheses_Valid/java_solution.java)||Medium|`Stack`|
 |303|780|[Reaching Points](https://leetcode.com/problems/reaching-points/)|[Java](780.Reaching_Points/java_solution.java)||Hard|`Math` `Tree`|
+|304|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](515.Find_Largest_Value_in_Each_Tree_Row/java_solution.java)||Medium|`Tree`|
