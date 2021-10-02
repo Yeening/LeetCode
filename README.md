@@ -265,7 +265,7 @@ LeetCode solutions in C++, Java and Python3.
 |257|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Java](126.Word_Ladder_II/java_solution.java)||Hard|`BFS`|
 |258|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](130.Surrounded_Regions/java_solution.java)||Medium|`DFS`|
 |259|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Java](179.Largest_Number/java_solution.java)||Medium|`Sorting`|
-|260|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Java](1288.Remove_Covered_Intervals/java_solution.java)||Medium|`Sorting`|
+|260|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) 2|[Java](1288.Remove_Covered_Intervals/java_solution.java)||Medium|`Sorting`|
 |261|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Java](986.Interval_List_Intersections/java_solution.java)||Medium|`Two Pointers`|
 |262|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](698.Partition_to_K_Equal_Sum_Subsets/java_solution.java)||Medium|`Back Tracking`|
 |263|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](057.Insert_Interval/java_solution.java)||Medium|`Array`|
