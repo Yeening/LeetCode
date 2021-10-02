@@ -311,3 +311,4 @@ LeetCode solutions in C++, Java and Python3.
 |303|780|[Reaching Points](https://leetcode.com/problems/reaching-points/)|[Java](780.Reaching_Points/java_solution.java)||Hard|`Math` `Tree`|
 |304|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](515.Find_Largest_Value_in_Each_Tree_Row/java_solution.java)||Medium|`Tree`|
 |305|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](647.Palindromic_Substrings/java_solution.java)||Medium|`Dynamic Programming`|
+|306|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Java](1347.Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram/java_solution.java)||Medium|`Hash Table`|
