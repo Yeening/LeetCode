@@ -32,22 +32,28 @@
 
 //Solution3: counting sort
 class Solution {
-    public int minIncrementForUnique(int[] A) {
-        int totalMove = 0, maxValue = 0;
-        int[] counting = new int[40001];
-        for(int i : A){
-            counting[i]++;
-            maxValue = Math.max(maxValue, i);
+    // lowU: 5
+    // move: 3
+    // 1,1,2,2,3
+    // [0,2,3,3]
+    //  time: O(maxVal + nums.length), space: O(maxVal + nums.length)
+    public int minIncrementForUnique(int[] nums) {
+        int move = 0, maxVal = 0;
+        for (int num: nums) {
+            maxVal = Math.max(maxVal, num);
         }
-        for(int i = 0; i < maxValue; i++){
-            if(counting[i] <= 1) continue;
-            totalMove += (counting[i] - 1);
-            counting[i+1] += (counting[i] - 1);
+        int[] numCount = new int[maxVal + nums.length];
+        for (int num: nums) {
+            numCount[num]++;
         }
-        int remainNums = counting[maxValue];
-        if(remainNums>1){
-            totalMove += (remainNums*(remainNums-1)/2);
+        for (int i = 0; i < numCount.length; i++) {
+            if (numCount[i] > 1) {
+                int extra = numCount[i] - 1;
+                move += extra;
+                numCount[i + 1] += extra;
+            }
+            if (numCount[i] == 0 && i > maxVal) {break;}
         }
-        return totalMove;
+        return move;
     }
 }
