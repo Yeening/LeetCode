@@ -315,3 +315,4 @@ LeetCode solutions in C++, Java and Python3.
 |307|256|[Paint House](https://leetcode.com/problems/paint-house/)|[Java](256.Paint_House/java_solution.java)||Medium|`Dynamic Programming`|
 |308|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](40.Combination_Sum_II/java_solution.java)||Medium|`Back tracking`|
 |309|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](453.Minimum_Moves_to_Equal_Array_Elements/java_solution.java)||Medium|`Array`|
+|310|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](696.Count_Binary_Substrings/java_solution.java)||Easy|`String`|
