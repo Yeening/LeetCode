@@ -2,7 +2,7 @@ class Solution {
     // if i - x > 2b continue
     // [0, a+b+max(x, maxForbidden)] // this is the tricky part
     // prove: https://leetcode.com/problems/minimum-jumps-to-reach-home/discuss/978357/C%2B%2B-bidirectional-BFS-solution-with-proof-for-search-upper-bound
-    // DFS, time: O(a+b+max(x, maxForbidden)), space:  O(a+b+max(x, maxForbidden))
+    // BFS, time: O(a+b+max(x, maxForbidden)), space:  O(a+b+max(x, maxForbidden))
     public int minimumJumps(int[] forbidden, int a, int b, int x) {
         Map<Integer, Integer> visited = new HashMap<>();
         int maxForbidden = forbidden[0];
