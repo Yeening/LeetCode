@@ -317,3 +317,4 @@ LeetCode solutions in C++, Java and Python3.
 |309|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](453.Minimum_Moves_to_Equal_Array_Elements/java_solution.java)||Medium|`Array`|
 |310|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](696.Count_Binary_Substrings/java_solution.java)||Easy|`String`|
 |311|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](1048.Longest_String_Chain/java_solution.java)||Medium|`Dynamic Programming`|
+|312|1654|[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|[Java](1654.Minimum_Jumps_to_Reach_Home/java_solution.java)||Medium|`BFS`|
