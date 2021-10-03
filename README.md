@@ -314,3 +314,4 @@ LeetCode solutions in C++, Java and Python3.
 |306|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Java](1347.Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram/java_solution.java)||Medium|`Hash Table`|
 |307|256|[Paint House](https://leetcode.com/problems/paint-house/)|[Java](256.Paint_House/java_solution.java)||Medium|`Dynamic Programming`|
 |308|40|[Combination Sum II]https://leetcode.com/problems/combination-sum-ii/)|[Java](40.Combination_Sum_II/java_solution.java)||Medium|`Back tracking`|
+|309|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](453.Minimum_Moves_to_Equal_Array_Elements/java_solution.java)||Medium|`Array`|
