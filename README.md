@@ -203,7 +203,7 @@ LeetCode solutions in C++, Java and Python3.
 |195|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](152.Maximum_Product_Subarray/java_solution.java)||Medium|`DP`|
 |196|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](151.Reverse_Words_in_a_String/java_solution.java)||Medium|`String`|
 |197|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](140.Word_Break_II/java_solution.java)||Hard|`Back tracking`|
-|198|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) 2|[Java](210.Course_Schedule_II/java_solution.java)||Medium|`Topological Sort`|
+|198|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) 3|[Java](210.Course_Schedule_II/java_solution.java)||Medium|`Topological Sort`|
 |199|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](1041.Robot_Bounded_In_Circle/java_solution.java)||Medium|`Math`|
 |200|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Java](221.Maximal_Square/java_solution.java)||Medium|`Dynamic Programming`|
 |201|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) 2|[Java](973.K_Closest_Points_to_Origin/java_solution.java/java_solution.java)||Medium|`Divide and Conquer`|
