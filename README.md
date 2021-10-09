@@ -320,3 +320,4 @@ LeetCode solutions in C++, Java and Python3.
 |312|1654|[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|[Java](1654.Minimum_Jumps_to_Reach_Home/java_solution.java)||Medium|`BFS`|
 |313|1604|[Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)|[Java](1604.Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period/java_solution.java)||Medium|`Hash Table`|
 |314|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](209.Minimum_Size_Subarray_Sum/java_solution.java)||Medium|`Sliding Window`|
+|315|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Java](969.Pancake_Sorting/java_solution.java)||Medium|`Sorting`|
