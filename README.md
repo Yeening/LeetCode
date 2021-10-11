@@ -180,8 +180,8 @@ LeetCode solutions in C++, Java and Python3.
 |172|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Java](285.Inorder_Successor_in_BST/java_solution.java)||Medium|`Tree`|
 |173|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](075.Sort_Colors/java_solution.java)||Medium|`Two pointers`|
 |174|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Java](251.Flatten_2D_Vector/java_solution.java)||Medium|`Design`|
-|175|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 2|[Java](300.Longest_Increasing_Subsequence/java_solution.java)||Medium|`Binary Search`|
-|176|322|[Longest Increasing Subsequence](https://leetcode.com/problems/coin-change/)|[Java](322.Coin_Change/java_solution.java)||Medium|`Dynamic Programming`|
+|175|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) 3|[Java](300.Longest_Increasing_Subsequence/java_solution.java)||Medium|`Binary Search`|
+|176|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](322.Coin_Change/java_solution.java)||Medium|`Dynamic Programming`|
 |177|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](055.Jump_Game/java_solution.java)||Medium|`Dynamic Programming`|
 |178|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](162.Find_Peak_Element/java_solution.java)||Medium|`Binary Search`|
 |179|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](215.Kth_Largest_Element_in_an_Array/java_solution.java)||Medium|`Divide and Conquer`|
