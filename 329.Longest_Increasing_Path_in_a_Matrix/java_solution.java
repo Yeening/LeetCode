@@ -1,40 +1,35 @@
+// DFS + memo, O(mn) time, O(mn) space
 class Solution {
-    int[][] LIP;
+    int[] dirs = new int[]{-1, 0, 1, 0, -1};
     int M;
     int N;
     public int longestIncreasingPath(int[][] matrix) {
         M = matrix.length;
         N = matrix[0].length;
-        LIP = new int[M][N];
-        int max = 0;
-        for(int i = 0; i < M; i++) {
+        int[][] memo = new int[M][N];
+        int longestPath = 0;
+        for (int i = 0; i < M; i++) {
             for (int j = 0; j < N; j++) {
-                if (LIP[i][j] == 0) {
-                    max = Math.max(max, DFS(matrix, i, j));
-                }
+                int length = longestStartPath(matrix, i, j, memo);
+                longestPath = Math.max(length, longestPath);
             }
         }
-        return max;
+        return longestPath;
     }
-    
-    private int DFS(int[][] matrix, int i, int j) {
-        if (i < 0 || i >= M || j < 0 || j >= N) return 0;
-        if (LIP[i][j] > 0) return LIP[i][j];
-        LIP[i][j] = 1;
-        int maxPath = 0;
-        if (i > 0 && matrix[i-1][j] > matrix[i][j]) {
-            maxPath = Math.max(maxPath, DFS(matrix, i-1, j));
+    // pre-condition: 
+    private int longestStartPath(int[][] matrix, int i, int j, 
+                                int[][] memo) {
+        if (memo[i][j] != 0) {return memo[i][j];}
+        int length = 1;
+        for (int k = 0; k < 4; k++) {
+            int nextI = i + dirs[k], nextJ = j + dirs[k+1];
+            if (nextI < 0 || nextI > M - 1 || 
+                nextJ < 0 || nextJ > N - 1 || 
+                matrix[i][j] >= matrix[nextI][nextJ]) {continue;}
+            length = Math.max(length, 
+                        longestStartPath(matrix, nextI, nextJ, memo) + 1);
         }
-        if (i < M - 1 && matrix[i+1][j] > matrix[i][j]) {
-            maxPath = Math.max(maxPath, DFS(matrix, i+1, j));
-        }
-        if (j > 0 && matrix[i][j-1] > matrix[i][j]) {
-            maxPath = Math.max(maxPath, DFS(matrix, i, j-1));
-        }
-        if (j < N - 1 && matrix[i][j+1] > matrix[i][j]) {
-            maxPath = Math.max(maxPath, DFS(matrix, i, j+1));
-        }
-        LIP[i][j] = 1 + maxPath;
-        return LIP[i][j];
+        memo[i][j] = length;
+        return length;
     }
 }
