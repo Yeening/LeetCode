@@ -286,7 +286,7 @@ LeetCode solutions in C++, Java and Python3.
 |278|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](211.Design_Add_and_Search_Words_Data_Structure/java_solution.java)||Medium|`Trie`|
 |279|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](091.Decode_Ways/java_solution.java)||Medium|`Dynamic Programming`|
 |280|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 2|[Java](287.Find_the_Duplicate_Number/java_solution.java)||Medium|`Two Pointers`|
-|281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
+|281|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) 2|[Java](329.Longest_Increasing_Path_in_a_Matrix/java_solution.java)||Hard|`DFS`|
 |282|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](1262.Greatest_Sum_Divisible_by_Three/java_solution.java)||Medium|`DP`|
 |283|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](560.Subarray_Sum_Equals_K/java_solution.java)||Medium|`Prefix sum`|
 |284|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[Java](1509.Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves/java_solution.java)||Medium|`Array`|
