@@ -322,3 +322,4 @@ LeetCode solutions in C++, Java and Python3.
 |314|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](209.Minimum_Size_Subarray_Sum/java_solution.java)||Medium|`Sliding Window`|
 |315|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Java](969.Pancake_Sorting/java_solution.java)||Medium|`Sorting`|
 |316|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](658.Find_K_Closest_Elements/java_solution.java)||Medium|`Binary Search`|
+|317|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/)|[Java](843.Guess_the_Word/java_solution.java)||Hard|`Greedy`|
