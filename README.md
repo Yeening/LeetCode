@@ -323,3 +323,4 @@ LeetCode solutions in C++, Java and Python3.
 |315|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Java](969.Pancake_Sorting/java_solution.java)||Medium|`Sorting`|
 |316|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](658.Find_K_Closest_Elements/java_solution.java)||Medium|`Binary Search`|
 |317|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/)|[Java](843.Guess_the_Word/java_solution.java)||Hard|`Greedy`|
+|318|1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|[Java](1648.Sell_Diminishing-Valued_Colored_Balls/java_solution.java)||Medium|`Greedy`|
