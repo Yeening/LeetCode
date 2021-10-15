@@ -86,4 +86,41 @@ public class Logger {
     }
 }
 
-// Solution 4: 
+// Solution 4: 2 Map, time: O(1), sapce: O(total message within 2*INTERVAL)
+// time: O(INTERVAL), space:(total message in 2*INTERVAL-length window)
+public class Logger2Map {
+    // all message’s last print should be in [0,9] seconds from now
+    Map<String, Integer> newMap;
+    Map<String, Integer> oldMap;
+    int oldestTimeInNew = 0;
+    private static final int INTERVAL = 10;
+    private final Object lock = new Object();
+
+    public Logger2Map() {
+        newMap = new HashMap<>();
+        oldMap = new HashMap<>();
+    }
+
+    public boolean shouldPrintMessage(int timestamp, String message) {
+        if (timestamp - oldestTimeInNew >= INTERVAL * 2) {
+            newMap.clear();
+        }
+        if (timestamp - oldestTimeInNew >= INTERVAL) {
+            Map<String, Integer> temp = oldMap;
+            oldMap = newMap;
+            newMap = temp;
+            newMap.clear();
+            oldestTimeInNew = timestamp;
+            newMap.put(message, timestamp);
+            return true;
+        }
+        // 0 <= timestamp - oldestTimeInNew < 10
+        if (newMap.containsKey(message)) {return false;}
+        Integer oldTime = oldMap.get(message);
+        if (oldTime == null || timestamp - oldTime < INTERVAL) {
+            newMap.put(message, timestamp);
+            return true;
+        }
+        return false;
+    }
+}
