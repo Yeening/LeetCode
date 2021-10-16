@@ -328,3 +328,4 @@ LeetCode solutions in C++, Java and Python3.
 |320|1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Java](1094.Car_Pooling/java_solution.java)||Medium|`Heap`|
 |321|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Java](417.Pacific_Atlantic_Water_Flow/java_solution.java)||Medium|`DFS`|
 |322|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Java](305.Number_of_Islands_II/java_solution.java)||Medium|`Union Find`|
+|323|767|[Reorganize String](https://leetcode.com/problems/number-of-islands-ii/)|[Java](767.Reorganize_String/java_solution.java)||Medium|`Greedy`|
