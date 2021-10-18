@@ -302,7 +302,7 @@ LeetCode solutions in C++, Java and Python3.
 |294|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[Java](1424.Diagonal_Traverse_II/java_solution.java)||Medium|`Sorting`|
 |295|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[Java](360.Sort_Transformed_Array/java_solution.java)||Medium|`Sorting`|
 |296|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java](743.Network_Delay_Time/java_solution.java)||Medium|`BFS``Dijkstra`|
-|297|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[Java](1514.Path_with_Maximum_Probability/java_solution.java)||Medium|`BFS``Dijkstra`|
+|297|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) 2|[Java](1514.Path_with_Maximum_Probability/java_solution.java)||Medium|`BFS``Dijkstra`|
 |298|2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Java](2013.Detect_Squares/java_solution.java)||Medium|`Design` `Counting`|
 |299|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java](097.Interleaving_String/java_solution.java)||Medium|`Dynamic Programming`|
 |300|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](189.Rotate_Array/java_solution.java)||Medium|`Math`|
