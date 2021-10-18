@@ -329,3 +329,4 @@ LeetCode solutions in C++, Java and Python3.
 |321|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Java](417.Pacific_Atlantic_Water_Flow/java_solution.java)||Medium|`DFS`|
 |322|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Java](305.Number_of_Islands_II/java_solution.java)||Medium|`Union Find`|
 |323|767|[Reorganize String](https://leetcode.com/problems/number-of-islands-ii/)|[Java](767.Reorganize_String/java_solution.java)||Medium|`Greedy`|
+|324|1293|[Reorganize String](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Java](1293.Shortest_Path_in_a_Grid_with_Obstacles_Elimination/java_solution.java)||Hard|`DFS`|
