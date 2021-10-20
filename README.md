@@ -333,3 +333,4 @@ LeetCode solutions in C++, Java and Python3.
 |325|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](304.Range_Sum_Query_2D_-_Immutable/java_solution.java)||Medium|`Dynamic Programming`|
 |326|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](792.Number_of_Matching_Subsequences/java_solution.java)||Medium|`String`|
 |327|489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Java](489.Robot_Room_Cleaner/java_solution.java)||Hard|`DFS`|
+|328|504|[Base 7](https://leetcode.com/problems/base-7/)|[Java](504.Base_7/java_solution.java)||Easy|`Math`|
