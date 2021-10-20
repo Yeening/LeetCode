@@ -20,3 +20,27 @@ class Solution {
         return sb.toString();
     }
 }
+
+// recursion solution
+class Solution {
+    public String countAndSay(int n) {
+        if (n == 1) {return "1";}
+        else return say(countAndSay(n-1));
+    }
+    
+    private String say(String input) { // "21"
+        int count = 1; //1
+        StringBuilder sb = new StringBuilder(); // '1211'
+        for (int i = 0; i < input.length(); i++) {
+            char cur = input.charAt(i);
+            if (i == input.length() - 1 || cur != input.charAt(i+1)) {
+                sb.append(count);
+                sb.append(cur);
+                count = 1;
+            } else {
+                count++;
+            }
+        }
+        return sb.toString();
+    }
+}
