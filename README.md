@@ -331,4 +331,4 @@ LeetCode solutions in C++, Java and Python3.
 |323|767|[Reorganize String](https://leetcode.com/problems/number-of-islands-ii/)|[Java](767.Reorganize_String/java_solution.java)||Medium|`Greedy`|
 |324|1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Java](1293.Shortest_Path_in_a_Grid_with_Obstacles_Elimination/java_solution.java)||Hard|`DFS`|
 |325|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](304.Range_Sum_Query_2D_-_Immutable/java_solution.java)||Medium|`Dynamic Programming`|
-|326|792|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](792.Number_of_Matching_Subsequences/java_solution.java)||Medium|`String`|
+|326|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](792.Number_of_Matching_Subsequences/java_solution.java)||Medium|`String`|
