@@ -335,4 +335,5 @@ LeetCode solutions in C++, Java and Python3.
 |327|489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Java](489.Robot_Room_Cleaner/java_solution.java)||Hard|`DFS`|
 |328|504|[Base 7](https://leetcode.com/problems/base-7/)|[Java](504.Base_7/java_solution.java)||Easy|`Math`|
 |329|2007|[Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|[Java](2007.Find_Original_Array_From_Doubled_Array/java_solution.java)||Medium|`Hash Table`|
+|330|1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](1209.Remove_All_Adjacent_Duplicates_in_String_II/java_solution.java)||Medium|`Stack`|
 
