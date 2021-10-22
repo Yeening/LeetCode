@@ -338,3 +338,4 @@ LeetCode solutions in C++, Java and Python3.
 |330|1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](1209.Remove_All_Adjacent_Duplicates_in_String_II/java_solution.java)||Medium|`Stack`|
 |331|1047|[Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](1047.Remove_All_Adjacent_Duplicates_In_String/java_solution.java)||Easy|`Stack`|
 |332|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Java](430.Flatten_a_Multilevel_Doubly_Linked_List/java_solution.java)||Medium|`DFS`|
+|333|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](1472.Design_Browser_History/java_solution.java)||Medium|`Stack`|
