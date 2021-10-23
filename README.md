@@ -340,4 +340,5 @@ LeetCode solutions in C++, Java and Python3.
 |332|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Java](430.Flatten_a_Multilevel_Doubly_Linked_List/java_solution.java)||Medium|`DFS`|
 |333|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](1472.Design_Browser_History/java_solution.java)||Medium|`Stack`|
 |334|343|[Integer Break](https://leetcode.com/problems/integer-break/)|[Java](343.Integer_Break/java_solution.java)||Medium|`Dynamic Programming`|
-|335|1029|[Integer Break](https://leetcode.com/problems/two-city-scheduling/)|[Java](1029.Two_City_Scheduling/java_solution.java)||Medium|`Sorting` `Greedy`|
+|335|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](1029.Two_City_Scheduling/java_solution.java)||Medium|`Sorting` `Greedy`|
+|336|1396|[Two City Scheduling](https://leetcode.com/problems/design-underground-system/)|[Java](1396.Design_Underground_System/java_solution.java)||Medium|`Design`|
