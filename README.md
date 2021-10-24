@@ -343,3 +343,4 @@ LeetCode solutions in C++, Java and Python3.
 |335|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](1029.Two_City_Scheduling/java_solution.java)||Medium|`Sorting` `Greedy`|
 |336|1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Java](1396.Design_Underground_System/java_solution.java)||Medium|`Design`|
 |337|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](024.Swap_Nodes_in_Pairs/java_solution.java)||Medium|`Linked List`|
+|338|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Java](1091.Shortest_Path_in_Binary_Matrix/java_solution.java)||Medium|`BFS` `A*`|
