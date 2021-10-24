@@ -342,3 +342,4 @@ LeetCode solutions in C++, Java and Python3.
 |334|343|[Integer Break](https://leetcode.com/problems/integer-break/)|[Java](343.Integer_Break/java_solution.java)||Medium|`Dynamic Programming`|
 |335|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](1029.Two_City_Scheduling/java_solution.java)||Medium|`Sorting` `Greedy`|
 |336|1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Java](1396.Design_Underground_System/java_solution.java)||Medium|`Design`|
+|337|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](024.Swap_Nodes_in_Pairs/java_solution.java)||Medium|`Linked List`|
