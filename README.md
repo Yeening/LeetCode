@@ -345,3 +345,4 @@ LeetCode solutions in C++, Java and Python3.
 |337|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](024.Swap_Nodes_in_Pairs/java_solution.java)||Medium|`Linked List`|
 |338|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Java](1091.Shortest_Path_in_Binary_Matrix/java_solution.java)||Medium|`BFS` `A*`|
 |339|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Java](399.Evaluate_Division/java_solution.java)||Medium|`DFS`|
+|340|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](394.Decode_String/java_solution.java)||Medium|`Stack`|
