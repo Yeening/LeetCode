@@ -346,3 +346,4 @@ LeetCode solutions in C++, Java and Python3.
 |338|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Java](1091.Shortest_Path_in_Binary_Matrix/java_solution.java)||Medium|`BFS` `A*`|
 |339|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Java](399.Evaluate_Division/java_solution.java)||Medium|`DFS`|
 |340|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](394.Decode_String/java_solution.java)||Medium|`Stack`|
+|341|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](542.01_Matrix/java_solution.java)||Medium|`BFS`|
