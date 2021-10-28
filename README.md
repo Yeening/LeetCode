@@ -347,3 +347,4 @@ LeetCode solutions in C++, Java and Python3.
 |339|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Java](399.Evaluate_Division/java_solution.java)||Medium|`DFS`|
 |340|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](394.Decode_String/java_solution.java)||Medium|`Stack`|
 |341|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](542.01_Matrix/java_solution.java)||Medium|`BFS`|
+|342|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Java](1169.Invalid_Transactions/java_solution.java)||Medium|`Sorting`|
