@@ -349,3 +349,4 @@ LeetCode solutions in C++, Java and Python3.
 |341|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](542.01_Matrix/java_solution.java)||Medium|`BFS`|
 |342|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Java](1169.Invalid_Transactions/java_solution.java)||Medium|`Sorting`|
 |343|723|[Candy Crush](https://leetcode.com/problems/candy-crush/)|[Java](723.Candy_Crush/java_solution.java)||Medium|`Simulation`|
+|344|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|[Java](1244.Design_A_Leaderboard/java_solution.java)||Medium|`Design`|
