@@ -350,3 +350,4 @@ LeetCode solutions in C++, Java and Python3.
 |342|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Java](1169.Invalid_Transactions/java_solution.java)||Medium|`Sorting`|
 |343|723|[Candy Crush](https://leetcode.com/problems/candy-crush/)|[Java](723.Candy_Crush/java_solution.java)||Medium|`Simulation`|
 |344|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|[Java](1244.Design_A_Leaderboard/java_solution.java)||Medium|`Design`|
+|345|1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)|[Java](1274.Number_of_Ships_in_a_Rectangle/java_solution.java)||Hard|`Devide and Conquer`|
