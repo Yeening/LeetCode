@@ -351,3 +351,4 @@ LeetCode solutions in C++, Java and Python3.
 |343|723|[Candy Crush](https://leetcode.com/problems/candy-crush/)|[Java](723.Candy_Crush/java_solution.java)||Medium|`Simulation`|
 |344|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|[Java](1244.Design_A_Leaderboard/java_solution.java)||Medium|`Design`|
 |345|1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)|[Java](1274.Number_of_Ships_in_a_Rectangle/java_solution.java)||Hard|`Devide and Conquer`|
+|346|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](987.Vertical_Order_Traversal_of_a_Binary_Tree/java_solution.java)||Hard|`Tree`|
