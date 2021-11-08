@@ -1,4 +1,5 @@
 class Solution {
+    // time: O(N^2), sapce: O(N^2)
     public int unhappyFriends(int n, int[][] preferences, int[][] pairs) {
         int[] pair = new int[n];
         int unhappy = 0;
