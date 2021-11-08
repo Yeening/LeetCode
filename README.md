@@ -355,3 +355,4 @@ LeetCode solutions in C++, Java and Python3.
 |347|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](445.Add_Two_Numbers_II/java_solution.java)||Medium|`Stack`|
 |348|1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Java](1583.Count_Unhappy_Friends/java_solution.java/java_solution.java)||Medium|`Simulation`|
 |349|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](314.Binary_Tree_Vertical_Order_Traversal/java_solution.java/java_solution.java)||Medium|`Tree`|
+|350|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](611.Valid_Triangle_Number/java_solution.java/java_solution.java)||Medium|`Greedy` `Two Pointer`|
