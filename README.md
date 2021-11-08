@@ -55,7 +55,7 @@ LeetCode solutions in C++, Java and Python3.
 |47|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) 2|[C++](297.Serialize_and_Deserialize_Binary_Tree/cpp_solution.cpp) [Python](297.Serialize_and_Deserialize_Binary_Tree/python_solution.py) [Java](297.Serialize_and_Deserialize_Binary_Tree/java_solution.java)|[Note](297.Serialize_and_Deserialize_Binary_Tree/notes.md)|Hard|`Tree`|
 |48|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](175.Combine_Two_Tables/sql_solution.sql)||Easy|`SQL`|
 |49|169|[Majority Element](https://leetcode.com/problems/combine-two-tables/) 2|[Java](169.Majority_Element/java_solution.java)||Easy|`Array`|
-|50|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](242.Valid_Anagram/java_solution.java)||Easy|`Hash Table`|
+|50|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) 2|[Java](242.Valid_Anagram/java_solution.java)||Easy|`Hash Table`|
 |51|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 3|[Java](230.Kth_Smallest_Element_in_a_BST/java_solution.java)||Medium|`Tree` `Binary Search`|
 |52|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](217.Contains_Duplicate/java_solution.java)||Easy|`Hash Table`|
 |53|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](219.Contains_Duplicate_II/java_solution.java)||Easy|`Hash Table`|
@@ -130,7 +130,7 @@ LeetCode solutions in C++, Java and Python3.
 |122|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](048.Rotate_Image/java_solution.java) 2||Medium|`Array`|
 |123|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](165.Compare_Version_Numbers/java_solution.java) ||Medium|`String`|
 |124|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](268.Missing_Numbers/java_solution.java) ||Easy|`Math`|
-|125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
+|125|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) 2|[Java](387.First_Unique_Character_in_a_String/java_solution.java)||Easy|`Hash Table`|
 |126|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Java](819.Most_Common_Word/java_solution.java)||Easy|`Hash Table`|
 |127|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](098.Validate_Binary_Search_Tree/java_solution.java) 2||Medium|`Tree`|
 |128|675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)|[Java](675.Cut_Off_Trees_for_Golf_Event/java_solution.java)||Hard|`BFS`|
