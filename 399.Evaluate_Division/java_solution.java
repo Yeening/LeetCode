@@ -1,3 +1,4 @@
+// DFS, 1ms
 class Solution {
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
         // build transfer map
@@ -39,5 +40,61 @@ class Solution {
         }
         
         return -1d;
+    }
+}
+// BFS, 2ms
+class Solution {
+    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
+        // build adjacent map
+        Map<String, Map<String, Double>> adjacent = new HashMap<>();
+        for (int i = 0; i < equations.size(); i++) {
+            List<String> equation = equations.get(i);
+            String first = equation.get(0), second = equation.get(1);
+            adjacent.putIfAbsent(first, new HashMap<>());
+            adjacent.putIfAbsent(second, new HashMap<>());
+            adjacent.get(first).put(second, values[i]);
+            adjacent.get(first).put(first, 1d);
+            adjacent.get(second).put(first, 1d / values[i]);
+            adjacent.get(second).put(second, 1d);
+        }
+        
+        double[] res = new double[queries.size()];
+        for (int i = 0; i < queries.size(); i++) {
+            List<String> equation = queries.get(i);
+            String first = equation.get(0), second = equation.get(1);
+            if (!adjacent.containsKey(first) || !adjacent.containsKey(second)) {
+                res[i] = -1d;
+                continue;
+            }
+            res[i] = search(adjacent, first, second);
+        }
+        return res;
+    }
+    
+    // pre: adjacent.contiansKey(start) && adjacent.contiansKey(end)
+    private double search(Map<String, Map<String, Double>> adjacent, 
+                          String start, String end) {
+        assert(adjacent.containsKey(start) && adjacent.containsKey(end));
+        Deque<Pair<String, Double>> queue = new ArrayDeque<>();
+        Set<String> visited = new HashSet<>();
+        queue.offer(new Pair<>(start, 1d));
+        visited.add(start);
+        while (!queue.isEmpty()) {
+            Pair<String, Double> cur = queue.poll();
+            String curVar = cur.getKey();
+            double curPoss = cur.getValue();
+            if (curVar.equals(end)) {return curPoss;}
+            for (Map.Entry<String, Double> next: 
+                 adjacent.get(curVar).entrySet()) {
+                if (visited.contains(next.getKey())) {continue;}
+                visited.add(next.getKey());
+                double nextPoss = next.getValue() * curPoss;
+                adjacent.get(start)
+                    .put(next.getKey(), nextPoss);
+                queue.offer(new Pair<>(next.getKey(), nextPoss));
+            }
+        }
+        Double poss = adjacent.get(start).get(end);
+        return poss == null? -1: poss;
     }
 }
