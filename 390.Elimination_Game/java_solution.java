@@ -1,4 +1,5 @@
 class Solution {
+    // time: O(logN), space: O(logN)
     public int lastRemaining(int n) {
         return lastRemaining(n, 1, 1, true);
     }
