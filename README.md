@@ -357,3 +357,4 @@ LeetCode solutions in C++, Java and Python3.
 |349|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](314.Binary_Tree_Vertical_Order_Traversal/java_solution.java/java_solution.java)||Medium|`Tree`|
 |350|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](611.Valid_Triangle_Number/java_solution.java/java_solution.java)||Medium|`Greedy` `Two Pointer`|
 |351|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](315.Count_of_Smaller_Numbers_After_Self/java_solution.java/java_solution.java)||Hard|`Merge Sort`|
+|352|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](390.Elimination_Game/java_solution.java/java_solution.java)||Medium|`Math` `Recursion`|
