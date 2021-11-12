@@ -359,3 +359,4 @@ LeetCode solutions in C++, Java and Python3.
 |351|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](315.Count_of_Smaller_Numbers_After_Self/java_solution.java)||Hard|`Merge Sort`|
 |352|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](390.Elimination_Game/java_solution.java)||Medium|`Math` `Recursion`|
 |353|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](1614.Maximum_Nesting_Depth_of_the_Parentheses/java_solution.java)||Easy|`Stack`|
+|354|582|[Kill Process](https://leetcode.com/problems/kill-process/)|[Java](582.Kill_Process/java_solution.java)||Medium|`Tree`|
