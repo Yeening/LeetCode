@@ -353,8 +353,8 @@ LeetCode solutions in C++, Java and Python3.
 |345|1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)|[Java](1274.Number_of_Ships_in_a_Rectangle/java_solution.java)||Hard|`Devide and Conquer`|
 |346|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](987.Vertical_Order_Traversal_of_a_Binary_Tree/java_solution.java)||Hard|`Tree`|
 |347|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](445.Add_Two_Numbers_II/java_solution.java)||Medium|`Stack`|
-|348|1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Java](1583.Count_Unhappy_Friends/java_solution.java/java_solution.java)||Medium|`Simulation`|
-|349|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](314.Binary_Tree_Vertical_Order_Traversal/java_solution.java/java_solution.java)||Medium|`Tree`|
-|350|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](611.Valid_Triangle_Number/java_solution.java/java_solution.java)||Medium|`Greedy` `Two Pointer`|
-|351|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](315.Count_of_Smaller_Numbers_After_Self/java_solution.java/java_solution.java)||Hard|`Merge Sort`|
-|352|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](390.Elimination_Game/java_solution.java/java_solution.java)||Medium|`Math` `Recursion`|
+|348|1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Java](1583.Count_Unhappy_Friends/java_solution.java)||Medium|`Simulation`|
+|349|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](314.Binary_Tree_Vertical_Order_Traversal/java_solution.java)||Medium|`Tree`|
+|350|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](611.Valid_Triangle_Number/java_solution.java)||Medium|`Greedy` `Two Pointer`|
+|351|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](315.Count_of_Smaller_Numbers_After_Self/java_solution.java)||Hard|`Merge Sort`|
+|352|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](390.Elimination_Game/java_solution.java)||Medium|`Math` `Recursion`|
