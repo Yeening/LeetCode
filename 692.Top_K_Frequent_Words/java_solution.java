@@ -17,3 +17,39 @@ class Solution {
         return res;
     }
 }
+
+//
+class Solution {
+    public List<String> topKFrequent(String[] words, int k) {
+        Map<String, Integer> wordCount = new HashMap<>();
+        for (String word: words) {
+            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
+        }
+        PriorityQueue<String> pq = new PriorityQueue<>(
+            (a, b) -> compare(b, a, wordCount));
+        for (String word: wordCount.keySet()) {
+            if (pq.size() < k) {
+                pq.offer(word);
+            } else if (compare(word, pq.peek(), wordCount) < 0){
+                pq.offer(word);
+                pq.poll();
+            }
+        }
+        LinkedList<String> res = new LinkedList<>();
+        for (int i = 0; i < k; i++) {
+            res.addFirst(pq.poll());
+        }
+        // Collections.reverse(res);
+        return res;
+    }
+    
+    // decreasing to count, then lexicographical order
+    private int compare(String a, String b, Map<String, Integer> wordCount) {
+        int countCompare = wordCount.get(b) - wordCount.get(a);
+        if (countCompare == 0) {
+            return a.compareTo(b);
+        } else {
+            return countCompare;
+        }
+    }
+}
