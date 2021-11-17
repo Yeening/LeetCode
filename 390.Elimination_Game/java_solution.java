@@ -20,3 +20,26 @@ class Solution {
         }
     }
 }
+
+// iterative
+class Solution {
+    public int lastRemaining(int n) {
+        boolean LTR = true;
+        int gap = 1, start = 1;
+        while (n > 1) { // 2
+            if (LTR || n % 2 == 1) {
+                start += gap; // 2
+            }
+            gap = gap << 1; // 2
+            n = n >> 1; // 2
+            LTR = !LTR;
+        }
+        return start;
+    }
+    /*
+    odd, LTR: start + gap
+    odd, RTL: start + gap
+    even, LTR: start + gap
+    even, RTL:start
+    */
+}
