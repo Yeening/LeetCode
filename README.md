@@ -361,3 +361,4 @@ LeetCode solutions in C++, Java and Python3.
 |353|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](1614.Maximum_Nesting_Depth_of_the_Parentheses/java_solution.java)||Easy|`Stack`|
 |354|582|[Kill Process](https://leetcode.com/problems/kill-process/)|[Java](582.Kill_Process/java_solution.java)||Medium|`Tree`|
 |355|1188|[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/)|[Java](1188.Design_Bounded_Blocking_Queue/java_solution.java)||Medium|`Concurrency`|
+|356|694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Java](694.Number_of_Distinct_Islands/java_solution.java)||Medium|`DFS`|
