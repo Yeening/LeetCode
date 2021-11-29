@@ -362,3 +362,4 @@ LeetCode solutions in C++, Java and Python3.
 |354|582|[Kill Process](https://leetcode.com/problems/kill-process/)|[Java](582.Kill_Process/java_solution.java)||Medium|`Tree`|
 |355|1188|[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/)|[Java](1188.Design_Bounded_Blocking_Queue/java_solution.java)||Medium|`Concurrency`|
 |356|694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Java](694.Number_of_Distinct_Islands/java_solution.java)||Medium|`DFS`|
+|357|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](031.Next_Permutation/java_solution.java)||Medium|`Two Pointers`|
