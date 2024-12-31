@@ -363,3 +363,4 @@ LeetCode solutions in C++, Java and Python3.
 |355|1188|[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/)|[Java](1188.Design_Bounded_Blocking_Queue/java_solution.java)||Medium|`Concurrency`|
 |356|694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Java](694.Number_of_Distinct_Islands/java_solution.java)||Medium|`DFS`|
 |357|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](031.Next_Permutation/java_solution.java)||Medium|`Two Pointers`|
+|358|528|[Random Pick With Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java](528.Random_Pick_With_Weight/java_solution.java)||Medium|`Binary Search`|
