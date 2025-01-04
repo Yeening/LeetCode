@@ -365,3 +365,4 @@ LeetCode solutions in C++, Java and Python3.
 |357|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](031.Next_Permutation/java_solution.java)||Medium|`Two Pointers`|
 |358|528|[Random Pick With Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java](528.Random_Pick_With_Weight/java_solution.java)||Medium|`Binary Search`|
 |359|86|[Partition List](https://leetcode.com/problems/random-pick-with-weight/)|[Java](086.Partition_List/java_solution.java)||Medium|`Linked List`|
+|360|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](876.Middle_of_the_Linked_List/java_solution.java)||Easy|`Linked List`|
