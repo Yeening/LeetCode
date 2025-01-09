@@ -368,3 +368,4 @@ LeetCode solutions in C++, Java and Python3.
 |360|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](876.Middle_of_the_Linked_List/java_solution.java)||Easy|`Linked List`|
 |361|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](083.Remove_Duplicates_from_Sorted_List/java_solution.java)||Easy|`Linked List`|
 |362|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](187.Repeated_DNA_Sequences/java_solution.java)||Medium|`Hash Table`|
+|363|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Java](220.Contains_Duplicate_III/java_solution.java)||Hard|`Bucket Sort`|
