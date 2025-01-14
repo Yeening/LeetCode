@@ -371,3 +371,4 @@ LeetCode solutions in C++, Java and Python3.
 |363|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Java](220.Contains_Duplicate_III/java_solution.java)||Hard|`Bucket Sort`|
 |364|916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](916.Word_Subsets/java_solution.java)||Medium|`Hash Map`|
 |365|3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Java](3223.Minimum_Length_of_String_After_Operations/java_solution.java)||Medium|`Hash Map`|
+|366|2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](2657.Find_the_Prefix_Common_Array_of_Two_Arrays/java_solution.java)||Medium|`Hash Table`|
