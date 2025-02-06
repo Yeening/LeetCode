@@ -374,3 +374,4 @@ LeetCode solutions in C++, Java and Python3.
 |366|2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](2657.Find_the_Prefix_Common_Array_of_Two_Arrays/java_solution.java)||Medium|`Hash Table`|
 |367|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Java](424.Longest_Repeating_Character_Replacement/java_solution.java)||Medium|`Sliding Window`|
 |368|1267|[Count_Servers_that_Communicate](https://leetcode.com/problems/count-servers-that-communicate)|[Java](1267.Count_Servers_that_Communicate/java_solution.java)||Medium|`DFS`|
+|369|1762|[Buildings_With_an_Ocean_View](https://leetcode.com/problems/count-servers-that-communicate)|[Java](1762.Buildings_With_an_Ocean_View/java_solution.java)||Medium|`Array`|
