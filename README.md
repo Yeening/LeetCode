@@ -378,3 +378,4 @@ LeetCode solutions in C++, Java and Python3.
 |370|71|[Simplify_Path](https://leetcode.com/problems/count-servers-that-communicate)|[Java](071.Simplify_Path/java_solution.java)||Medium|`Stack`|
 |371|455|[Assign Cookies](https://leetcode.com/problems/count-servers-that-communicate)|[Java](455.Assign_Cookies/java_solution.java)||Easy|`Greedy`|
 |372|670|[Maximum Swap](https://leetcode.com/problems/count-servers-that-communicate)|[Java](670.Maximum_Swap/java_solution.java)||Medium|`Greedy`|
+|373|680|[Valid Palindrome II](https://leetcode.com/problems/count-servers-that-communicate)|[Java](680.Valid_Palindrome_II/java_solution.java)||Easy|`Array`|
