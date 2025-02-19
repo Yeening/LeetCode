@@ -380,3 +380,4 @@ LeetCode solutions in C++, Java and Python3.
 |372|670|[Maximum Swap](https://leetcode.com/problems/count-servers-that-communicate)|[Java](670.Maximum_Swap/java_solution.java)||Medium|`Greedy`|
 |373|680|[Valid Palindrome II](https://leetcode.com/problems/count-servers-that-communicate)|[Java](680.Valid_Palindrome_II/java_solution.java)||Easy|`Array`|
 |374|1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/count-servers-that-communicate)|[Java](1570.Dot_Product_of_Two_Sparse_Vectors/java_solution.java)||Medium|`Array`|
+|375|408|[Valid_Word_Abbreviation](https://leetcode.com/problems/count-servers-that-communicate)|[Java](408.Valid_Word_Abbreviation/java_solution.java)||Medium|`Array`|
