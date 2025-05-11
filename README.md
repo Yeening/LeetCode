@@ -383,3 +383,4 @@ LeetCode solutions in C++, Java and Python3.
 |375|408|[Valid_Word_Abbreviation](https://leetcode.com/problems/count-servers-that-communicate)|[Java](408.Valid_Word_Abbreviation/java_solution.java)||Medium|`Array`|
 |376|938|Range Sum of BST](https://leetcode.com/problems/count-servers-that-communicate)|[Java](938.Range_Sum_of_BST/java_solution.java)||Easy|`BST`|
 |377|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/count-servers-that-communicate)|[Java](129.Sum_Root_to_Leaf_Numbers/java_solution.java)||Medium|`BFS`|
+|378|803|[Bricks Falling When Hit](https://leetcode.com/problems/count-servers-that-communicate)|[Java](803.Bricks_Falling_When_Hit/java_solution.java)||Hard|`DFS`|
